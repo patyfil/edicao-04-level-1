@@ -42,7 +42,7 @@ verificarAposentadoria('Wellison')    // false (falta 1 ano de trabalho para reg
 verificarAposentadoria('Florisberto') // false (colaborador inexistente)
 ```
 
-_**Após** ter feito o exercício, dá uma conferida em [como nós criamos a função](resolucao.md).
+_**Após** ter feito o exercício, dá uma conferida em [como nós criamos a função](resolucao.md)._
 
 ---
 
