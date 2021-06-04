@@ -1,6 +1,9 @@
 # Aula 10 - Juntando tudo
 
-Assista ao vídeo: https://youtu.be/aWv871ExPqY
+Assista ao vídeo:
+
+[![Juntando tudo](https://img.youtube.com/vi/aWv871ExPqY/0.jpg)](https://www.youtube.com/watch?v=aWv871ExPqY)
+
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem importante)_ que você faça o exercício.
 
@@ -44,4 +47,4 @@ _**Após** ter feito o exercício, dá uma conferida em [como nós criamos a fun
 ---
 
 👈 [Voltar para aula anterior](../aula09/aula.md)
-👈 [Voltar para o índice](../material.md#algoritmos-e-lógica-de-programação-fundamental)
+👈 [Voltar para o índice](../REAMDE.md)

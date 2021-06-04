@@ -1,6 +1,9 @@
 # Aula 08 - Estruturas de repetição
 
-Assista ao vídeo: https://youtu.be/FhuqrLaeN34
+Assista ao vídeo:
+
+[![Estruturas de repetição](https://img.youtube.com/vi/FhuqrLaeN34/0.jpg)](https://www.youtube.com/watch?v=FhuqrLaeN34)
+
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
@@ -8,7 +11,7 @@ Assista ao vídeo: https://youtu.be/FhuqrLaeN34
 
 #### _Leitura complementar:_
 
-* https://www.hreis.net/js/repeticao.html
+* [Estruturas de repetição em JavaScript](https://www.hreis.net/js/repeticao.html)
 
 ---
 

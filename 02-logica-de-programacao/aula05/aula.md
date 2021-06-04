@@ -1,6 +1,9 @@
 # Aula 05 - Operadores
 
-Assista ao vídeo: https://youtu.be/FDrR18rvvCc
+Assista ao vídeo: 
+
+[![Operadores](https://img.youtube.com/vi/FDrR18rvvCc/0.jpg)](https://www.youtube.com/watch?v=FDrR18rvvCc)
+
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora muito importante)_ que você faça os exercícios.
 

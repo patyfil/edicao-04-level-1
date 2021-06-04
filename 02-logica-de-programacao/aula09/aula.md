@@ -1,8 +1,11 @@
 # Aula 09 - Funções, procedimentos e comentários
 
-Leia o artigo: https://www.linhadecomando.com/javascript/javascript-inserindo-comentarios
+Leia o artigo: [JavaScript: Inserindo comentários](https://www.linhadecomando.com/javascript/javascript-inserindo-comentarios)
 
-Assista ao vídeo: https://youtu.be/2g2bfD6q5NQ
+Assista ao vídeo:
+
+[![ Funções, procedimentos e comentários](https://img.youtube.com/vi/2g2bfD6q5NQ/0.jpg)](https://www.youtube.com/watch?v=2g2bfD6q5NQ)
+
 
 > É **#fundamental** que você assista ao vídeo e leia o artigo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
@@ -10,7 +13,8 @@ Assista ao vídeo: https://youtu.be/2g2bfD6q5NQ
 
 #### Leitura complementar:_
 
-* http://www.linhadecodigo.com.br/artigo/2918/a-importancia-de-uma-boa-documentacao.aspx
+* [A importância de uma boa documentação
+](http://www.linhadecodigo.com.br/artigo/2918/a-importancia-de-uma-boa-documentacao.aspx)
 
 ---
 

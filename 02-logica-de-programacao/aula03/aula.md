@@ -1,6 +1,9 @@
 # Aula 03 - Hello World
 
-Assista ao vídeo: https://youtu.be/rktt2vRzA1c
+Assista ao vídeo:
+
+[![Hello World](https://img.youtube.com/vi/rktt2vRzA1c/0.jpg)](https://www.youtube.com/watch?v=rktt2vRzA1c)
+
 
 > É **#fundamental** que você assista ao vídeo e leia o material complementar.
 

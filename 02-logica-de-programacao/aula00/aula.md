@@ -15,4 +15,4 @@ Assista ao vídeo:
 
 ---
 
-👈 [Voltar para o índice](../material.md#algoritmos-e-lógica-de-programação-fundamental) ..... [Avançar para próxima aula](../aula01/aula.md) 👉
+👈 [Voltar para o índice](../README.md) ..... [Avançar para próxima aula](../aula01/aula.md) 👉

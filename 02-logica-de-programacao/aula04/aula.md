@@ -1,14 +1,16 @@
 # Aula 04 - Variáveis
 
 Assista aos vídeos: 
-* Parte **teórica**: https://youtu.be/-ny7Kqm0V68
+* Parte **teórica**:
   * _Este vídeo contém uma explicação teórica sobre o que são variáveis em qualquer linguagem de programação._
-.
-* Parte **prática**: https://youtu.be/Qxz5TKqYkCg
+  [![Variáveis - Parte Teórica](https://img.youtube.com/vi/-ny7Kqm0V68/0.jpg)](https://www.youtube.com/watch?v=-ny7Kqm0V68)
+
+* Parte **prática**:
   * _Este vídeo demonstra na prática como trabalhar com variáveis em Javascript. Mas é importante ficar atento a alguns detalhes do vídeo:_
     * O conteúdo é apresentado numa ferramenta chamada Visual Studio Code, mas ela não é obrigatória. Você pode escolhar por criar todo código no Repl ou no próprio navegador, conforme explicado na [aula anterior](../aula03/aula.md);
     * Tudo o que é mostrado no arquivo `scripts.js` pode ser feito no Repl ou no próprio navegador. Nestes casos, você não precisa se preocupar com o arquivo `home.html` que é apresentado no vídeo;
     * Embora o vídeo mostre a criação de variáveis com o prefixo `let`, isto não é muito importante para o aprendizado neste momento. Você pode criar variáveis digitando diretamente o nome da variável e seu valor. Ex.: `empresa = "CWI"`
+    [![Variáveis na prática](https://img.youtube.com/vi/Qxz5TKqYkCg/0.jpg)](https://www.youtube.com/watch?v=Qxz5TKqYkCg)
 
 > É **#fundamental** que você assista aos vídeos e leia o material complementar. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

@@ -1,6 +1,8 @@
 # Aula 01 - Introdução à lógica de programação
 
-Assista ao vídeo: https://youtu.be/HXddFUe6VPU
+Assista ao vídeo: 
+
+[![Introdução à lógica de programação](https://img.youtube.com/vi/HXddFUe6VPU/0.jpg)](https://www.youtube.com/watch?v=HXddFUe6VPU)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

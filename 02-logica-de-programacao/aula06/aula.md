@@ -1,6 +1,9 @@
 # Aula 06 - Condicionais
 
-Assista ao vídeo: https://youtu.be/Uw7X_JwGbis
+Assista ao vídeo:
+
+[![Condicionais](https://img.youtube.com/vi/Uw7X_JwGbis/0.jpg)](https://www.youtube.com/watch?v=Uw7X_JwGbis)
+
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora muito importante)_ que você faça o exercício.
 

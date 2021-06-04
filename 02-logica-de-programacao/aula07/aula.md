@@ -1,6 +1,9 @@
 # Aula 07 - Vetores, matrizes e arrays
 
-Assista ao vídeo: https://youtu.be/Q8iceY8qCpo
+Assista ao vídeo:
+
+[![Vetores, matrizes e arrays](https://img.youtube.com/vi/Q8iceY8qCpo/0.jpg)](https://www.youtube.com/watch?v=Q8iceY8qCpo)
+
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
@@ -8,7 +11,7 @@ Assista ao vídeo: https://youtu.be/Q8iceY8qCpo
 
 #### _Leitura complementar:_
 
-* https://www.devmedia.com.br/javascript-arrays/4079
+* [JavaScript Arrays](https://www.devmedia.com.br/javascript-arrays/4079)
 
 ---
 
