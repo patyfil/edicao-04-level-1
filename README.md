@@ -46,7 +46,7 @@ Mas, caso permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá u
 
 👉 Coloque o máximo possível de detalhes na descrição da issue. Se puder, bote até uns prints. Quanto mais informações, mais fácil para os outros conseguirem te ajudar.
 
-**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. E agora você já tem `uma primeira missão`: entre lá #3 e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
+**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. E agora você já tem `uma primeira missão`: entre lá #1 e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
 
 **Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
 
