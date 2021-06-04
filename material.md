@@ -27,7 +27,7 @@ Mexe com computador mas não sabe como ele funciona? Já procurou um notebook co
 
 _Obs.: o último link é de uma playlist beeem básica, então, caso você já tenha um conhecimento um pouquinho maior, pode pulá-lo tranquilamente._ 😉
 
-- [Como funciona um computador](https://www.youtube.com/watch?v=MpKbTNonIwc)
+- [Como funciona um computador](https://youtu.be/MpKbTNonIwc)
 - [12 conceitos de sistemas operacionais que todo estudante de tecnologia precisa conhecer](https://youtu.be/T7lCM3l7vAQ)
 - [Curso de informática básica](https://www.youtube.com/playlist?list=PL-QAz5R5Rlm7wn20xLTIr84gbS2XkzqEZ)
 
