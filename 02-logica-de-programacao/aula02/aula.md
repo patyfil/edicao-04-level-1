@@ -11,7 +11,7 @@ Assista ao vídeo:
 
 #### _Leitura complementar:_
 
-* https://universidadedatecnologia.com.br/o-que-e-linguagem-de-programacao/
+* [O que é linguagem de programação?](https://universidadedatecnologia.com.br/o-que-e-linguagem-de-programacao/)
 
 ---
 
