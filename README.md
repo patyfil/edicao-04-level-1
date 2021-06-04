@@ -1,10 +1,12 @@
+![Logo Reset](assets/logo-reset.png)
+
 # CWI Reset - 3ª edição - Level 1
 
 O objetivo da etapa de qualificação é introduzi-lo aos conceitos de **fundamentos e lógica de programação**. Todo programador precisa conhecer a fundo este assunto e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
 
-Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação, o qual será realizado no dia **15/01/2021**.
+Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação, o qual será realizado no dia **xx/xx/2021**.
 
-Seu entendimento sobre este conteúdo é fundamental para que você esteja apto a participar do treinamento que faremos entre os dias **06/02/2021** e **06/03/2021**. Portanto, dedique-se a estudar o material e pratique tudo o que for apresentado. 💪
+Seu entendimento sobre este conteúdo é fundamental para que você esteja apto a participar do treinamento que faremos entre os dias **xx/xx/2021** e **xx/xx/2021**. Portanto, dedique-se a estudar o material e pratique tudo o que for apresentado. 💪
 
 ...
 
@@ -46,7 +48,7 @@ Mas, caso permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá u
 
 👉 Coloque o máximo possível de detalhes na descrição da issue. Se puder, bote até uns prints. Quanto mais informações, mais fácil para os outros conseguirem te ajudar.
 
-**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. E agora você já tem `uma primeira missão`: entre lá #1 e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
+**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora você já tem `uma primeira missão`: [acesse agora a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
 
 **Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
 
@@ -79,13 +81,13 @@ Este é o cronograma inicial que planejamos:
 | **xx/xx/2021** | **18h30 - 20h** | Palestra ao vivo sobre carreira de TI e detalhes sobre o funcionamento do programa e das próximas etapas. |
 | **xx/xx/2021** | **19h - 20h** | Live para tirar dúvidas sobre o conteúdo e exercícios. |
 | **xx/xx/2021** | **19h - 20h** | Live para tirar dúvidas sobre o conteúdo e exercícios. |
-| **xx/xx/2021** | **19h - 20h** | Live para tirar dúvidas sobre o conteúdo e exercícios e passar detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **15/01/2021**. |
+| **xx/xx/2021** | **19h - 20h** | Live para tirar dúvidas sobre o conteúdo e exercícios e passar detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **xx/xx/2021**. |
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
 
 ...
 
-✅ Agora, sim, você já tem toda informação de que precisa para começar a programar no **CWI | Reset**. Bons estudos e boa sorte. 😊
+✅ Agora, sim, você já tem toda informação de que precisa para começar a programar no **CWI Reset**. Bons estudos e boa sorte. 😊
 
 👉 Todo material de estudo está disponível **[aqui](material.md)**. 👈
 
