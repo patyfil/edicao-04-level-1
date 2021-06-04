@@ -1,6 +1,6 @@
 # Material de estudo
 
-O treinamento do **CWI Reset**, que ocorrerá entre os dias **xx/xx/2021** e **xx/xx/2021**, é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso que é essencial a sua dedicação ao processo. 💪
+O treinamento do **CWI Reset** é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso é essencial a sua dedicação ao processo. 💪
 
 Durante o treinamento nós vamos te ensinar a programar, mas, antes de chegar lá, precisamos garantir que você aprenda o **básico**. E tudo o que você precisa aprender neste momento está no conteúdo desta página. 😎
 
@@ -82,7 +82,7 @@ Porém, se quiser dar um passo à frente 🚀, vale a pena dar uma conferida.
 
 Esperamos que você consiga ver, estudar e praticar todo material, pois ele é muito importante e constitui o básico para que você consiga participar da próxima etapa.
 
-Todo material foi cuidadosamente separado para te ajudar. Por isso, contamos com tua dedicação e esperamos te ver na próxima também 👊
+Todo material foi cuidadosamente separado para te ajudar. Por isso, contamos com sua dedicação e esperamos te ver na próxima também 👊
 
 Boa sorte 😊
 

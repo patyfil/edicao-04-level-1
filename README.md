@@ -14,7 +14,7 @@ Seu entendimento sobre este conteúdo é fundamental para que você esteja apto 
 
 Nosso programa visa te capacitar para trabalhar em uma área com infinitas possibilidades.' 🚀 
 
-Justamente por isso, recebemos **centenas** de inscrições. Nós bem que gostaríamos de selecionar todo mundo para o programa, mas infelizmente é impossível fazer um bom treinamento de capacitação com tanta gente. 😔
+Justamente por isso, recebemos **centenas** de inscrições. Nós gostaríamos de selecionar todo mundo para o programa, mas infelizmente é impossível fazer um bom treinamento de capacitação com tanta gente. 😔
 
 Como acreditamos fortemente no potencial da nossa área, montamos esta etapa e elaboramos um teste para ser justo na escolha de quem está preparado para este super desafio. 💪
 
@@ -34,7 +34,7 @@ Antes de abrir uma Issue:
 
 👉 Procure por issues semelhantes à sua. Pode ser que alguém já tenha passado pela mesma situação que você;
 
-👉 Se você viu alguma dúvida da qual sabe a resposta, não hesite em respondê-la e compartilhar seu conhecimento! Saiba que colaboração é uma das qualidades mais bem apreciadas por aqui 😉;
+👉 Se você viu alguma dúvida da qual sabe a resposta, não hesite em respondê-la e compartilhar seu conhecimento! Saiba que colaboração é uma das qualidades muito apreciadas por aqui 😉;
 
 👉 Se você postou algo e acabou descobrindo a solução por conta própria, responda você mesmo explicando como resolveu o problema. Lembre-se: outra pessoa pode passar pelo mesmo problema;
 
@@ -72,7 +72,7 @@ if (codigoFormatado) {
 }
 ```
 
-**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora você já tem `uma primeira missão`: [acesse agora a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
+**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e mandar um alô para a galera, só para que saibamos que você não pulou essa leitura 😜
 
 **Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
 
