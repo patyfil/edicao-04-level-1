@@ -2,7 +2,7 @@
 
 # CWI Reset - 3ª edição - Level 1
 
-O objetivo da etapa de qualificação é introduzi-lo aos conceitos de **fundamentos e lógica de programação**. Todo programador precisa conhecer a fundo este assunto e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
+O objetivo dessa etapa de qualificação é te apresentar o **Git e o Github**, introduzi-lo aos conceitos de **fundamentos e lógica de programação** e **orientação a objetos** e, para encerrar, te mostrar um pouco de programação usando **Java**. Todo programador precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
 
 Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação, o qual será realizado no dia **27/08/2021**.
 
@@ -12,11 +12,11 @@ Seu entendimento sobre este conteúdo é fundamental para que você esteja apto 
 
 ## - Teste? Como assim? 😕
 
-Nosso programa visa te capacitar para trabalhar numa área nova com infinitas possibilidades.' 🚀 
+Nosso programa visa te capacitar para trabalhar em uma área com infinitas possibilidades.' 🚀 
 
-Justamente por isso, recebemos **centenas** de inscrições. Nós bem que gostaríamos de botar todo mundo no programa, mas, infelizmente, seria impossível fazer um bom treinamento de capacitação com tanta gente. 😔
+Justamente por isso, recebemos **centenas** de inscrições. Nós bem que gostaríamos de selecionar todo mundo para o programa, mas infelizmente é impossível fazer um bom treinamento de capacitação com tanta gente. 😔
 
-Como acreditamos fortemente no potencial da nossa área, fizemos esta etapa e um teste para ser justo na escolha de quem está preparado para este super desafio. 💪
+Como acreditamos fortemente no potencial da nossa área, montamos esta etapa e elaboramos um teste para ser justo na escolha de quem está preparado para este super desafio. 💪
 
 Nós separamos cuidadosamente todo conteúdo que você precisa conhecer, estudar e praticar. Agora é contigo. 😄
 
@@ -24,29 +24,53 @@ Nós separamos cuidadosamente todo conteúdo que você precisa conhecer, estudar
 
 ## - Mas e se tiver dúvidas, o que eu faço?? 😨
 
-Relaxa! Estamos aqui para te ajudar 👊
+Relaxa! Estamos aqui para te ajudar 👊 #tamojunto
 
-Antes de mais nada, porém, é importante você ter consciência de que deve buscar ao máximo entender o que houve no seu código antes de pedir ajuda. Isto é importante pois, na TI, apreciamos muito o autodidatismo. 😉
+É importante você ter consciência de que deve buscar entender ao máximo o que houve no seu código antes de pedir ajuda. Isto é importante pois, na TI, apreciamos muito o autodidatismo. 😉
 
-Mas, caso permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá usar as **[Issues](https://github.com/cwi-reset/edicao-03-level-1/issues)** aqui do Github. Elas funcionam como se fosse um fórum: você cria uma nova issue para explicar a sua dúvida e alguém tentará ajudá-lo.
+Caso ainda permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá usar as **[Issues](https://github.com/cwi-reset/edicao-03-level-1/issues)** aqui do Github. Elas funcionam como um fórum: você cria uma nova issue e pode explicar a sua dúvida. Teremos um time de especialistas colaboradores da CWI para ajudá-lo.
 
-👉 Lembre-se de procurar por issues semelhantes as suas antes de postar uma nova. Pode ser que alguém já tenha passado pela mesma situação que você;
+Antes de abrir uma Issue:
+
+👉 Procure por issues semelhantes à sua. Pode ser que alguém já tenha passado pela mesma situação que você;
 
 👉 Se você viu alguma dúvida da qual sabe a resposta, não hesite em respondê-la e compartilhar seu conhecimento! Saiba que colaboração é uma das qualidades mais bem apreciadas por aqui 😉;
 
 👉 Se você postou algo e acabou descobrindo a solução por conta própria, responda você mesmo explicando como resolveu o problema. Lembre-se: outra pessoa pode passar pelo mesmo problema;
 
-👉 Use títulos fáceis de entender e de filtrar. Imagine, por exemplo, que você não conseguiu criar o algoritmo de verificação de maioridade da aula 05. Olha aí uns exemplos de títulos ruins ❌ e bons ✅ pra gente conseguir te ajudar melhor:
+👉 Use títulos fáceis de entender e de filtrar. Imagine, por exemplo, que você não conseguiu criar o algoritmo de verificação de maioridade da aula 05 no módulo de Lógica de Programação. Veja alguns exemplos de títulos ruins ❌ e bons ✅ pra gente conseguir te ajudar melhor:
 
-... ❌ Tá dando erro
+... ❌ Erro
 
 ... ❌ Não sei o que fazer
 
-... ✅ Como resolver o algoritmo de maioridade da aula 05?
+... ❌ Problema na resolução do exercício
 
-... ✅ [Aula 05] Erro na verificação de maioridade
+... ✅ Como resolver o algoritmo de maioridade da aula 05 do módulo de Lógica de Programação?
 
-👉 Coloque o máximo possível de detalhes na descrição da issue. Se puder, bote até uns prints. Quanto mais informações, mais fácil para os outros conseguirem te ajudar.
+... ✅ [Aula 05] [Lógica de Programação] Erro na verificação de maioridade
+
+👉 Coloque o máximo possível de detalhes na descrição da issue. Se puder, inclua alguns prints. Quanto mais informações, mais fácil para os outros conseguirem te ajudar.
+
+👉 Mostre o seu código. Ao incluir o seu código entre 3 crazes, o GitHub vai mostrar o código formatado. Veja o exemplo abaixo:
+
+\```javascript
+
+if (codigoFormatado) {
+
+console.log("Este código aparecerá formatado no GitHub")
+
+}
+
+\```
+
+Vai ser exibido assim:
+
+```javascript
+if (codigoFormatado) {
+    console.log("Este código aparecerá formatado no GitHub")
+}
+```
 
 **Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora você já tem `uma primeira missão`: [acesse agora a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e mande um alô pra galera, só para sabermos que você não pulou essa leitura 😜
 
@@ -62,9 +86,9 @@ Calma aí, pequeno(a) Padawan!
 
 👉 Todo conteúdo está disponível **[aqui](material.md)**. 👈
 
-O material foi dividido entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso 😜
+Todo material foi classificado entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso 😜
 
-Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça os exercícios_.
+Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça todos os exercícios_.
 
 ...
 
@@ -72,7 +96,7 @@ Recomendamos fortemente que você acompanhe o material na sequência indicada e 
 
 Eu sei que você já está louco(a) para sair programando, mas dá uma olhada nisso aqui:
 
-Além de todo material e da disponibilidade de ajuda pelo Github, também planejamos algumas lives com o intuito de esclarecer melhor como o programa funcionará e também para te ajudar a tirar dúvidas! Massa, né?? 😄
+Além de todo material e da disponibilidade de ajuda pelo GitHub, também planejamos algumas lives com o intuito de esclarecer melhor como o programa funcionará e também para te ajudar a tirar dúvidas! Massa, né?? 😄
 
 Este é o cronograma inicial que planejamos:
 
