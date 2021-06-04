@@ -1,8 +1,8 @@
 # Aula 05 - Resolução dos exercícios
 
-O nome das variáveis não é o mais relevante para a resolução destes exercícios. O principal aqui é o entendimento da lógica que deve ser aplicada para criação de cada variável. :wink:
+O nome das variáveis não é o mais relevante para a resolução destes exercícios. O principal aqui é o entendimento da lógica que deve ser aplicada para criação de cada variável. 😉
 
-Fique à vontade para colocar valores fixos _(como a idade de maioridade ou a taxa de juros)_ em diferentes variáveis para melhorar a leitura e compreensão do código. :punch:
+Fique à vontade para colocar valores fixos _(como a idade de maioridade ou a taxa de juros)_ em diferentes variáveis para melhorar a leitura e compreensão do código. 👊
 
 1)
 ```javascript
@@ -34,4 +34,4 @@ Fique à vontade para colocar valores fixos _(como a idade de maioridade ou a ta
 ![resolucao](img/resolucao.PNG)
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

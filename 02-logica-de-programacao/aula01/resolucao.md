@@ -1,6 +1,6 @@
 # Aula 01 - Resolução do exercício
 
-Dificilmente duas pessoas fazem um algoritmo igual, mesmo que elas estejam resolvendo o mesmo problema. Não te preocupe se tua solução ficou diferente da nossa, isto é apenas um primeiro exercício. :relaxed:
+Dificilmente duas pessoas fazem um algoritmo igual, mesmo que elas estejam resolvendo o mesmo problema. Não te preocupe se tua solução ficou diferente da nossa, isto é apenas um primeiro exercício. 😊
 
 ```
 Se o despertador tocou Então
@@ -31,4 +31,4 @@ ir para o trabalho
 ```
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

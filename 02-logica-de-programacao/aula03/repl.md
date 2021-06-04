@@ -1,6 +1,6 @@
 # Aula 03 - Usando o [Repl](http://www.repl.it)
 
-É bem simples utilizar o Repl. Segue os passos abaixo :point_down: que não tem erro. :sunglasses: 
+É bem simples utilizar o Repl. Segue os passos abaixo 👇 que não tem erro. 😎 
 
 ### 1. Cadastro
 
@@ -27,4 +27,4 @@ Quando seu repositório e ambiente de trabalho estiver concluído, basta você e
 ![execução](img/repl-4.png)
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

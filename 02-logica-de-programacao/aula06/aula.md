@@ -30,4 +30,4 @@ _**Após** ter feito o exercício, dá uma olhada na [nossa implementação](res
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula05/aula.md) ..... [Avançar para próxima aula](../aula07/aula.md) :point_right:
+👈 [Voltar para aula anterior](../aula05/aula.md) ..... [Avançar para próxima aula](../aula07/aula.md) 👉

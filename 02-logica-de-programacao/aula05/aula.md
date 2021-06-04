@@ -25,10 +25,10 @@ Assista ao vídeo: https://youtu.be/FDrR18rvvCc
    * Você está caminhando na rua e decide dar `R$ 0,10` para um morador de rua
    * Você compra um ar condicionado cujo valor é `25%` do seu saldo atual
    * Você decide antecipar o pagamento de uma dívida usando metade do seu saldo
-   * Qual o valor do seu saldo? :thinking:
+   * Qual o valor do seu saldo? 🤔
 
 _**Após** ter feito os exercícios, você pode dar uma conferida em como [nós criamos as nossas variáveis](resolucao.md)._
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula04/aula.md) ..... [Avançar para próxima aula](../aula06/aula.md) :point_right:
+👈 [Voltar para aula anterior](../aula04/aula.md) ..... [Avançar para próxima aula](../aula06/aula.md) 👉

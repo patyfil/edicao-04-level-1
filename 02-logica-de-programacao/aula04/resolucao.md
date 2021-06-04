@@ -1,6 +1,6 @@
 # Aula 04 - Resolução do exercício
 
-O código a seguir foi executado diretamente no navegador Chrome, mas você pode fazê-lo em qualquer outra ferramenta conforme já mencionado nas aulas. :blush:
+O código a seguir foi executado diretamente no navegador Chrome, mas você pode fazê-lo em qualquer outra ferramenta conforme já mencionado nas aulas. 😊
 
 ```javascript
 nomeCompleto = "Jonatã Jhuhnyior da Silva"
@@ -21,4 +21,4 @@ _Resultado:_
 ![resolucao](img/resolucao.png)
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

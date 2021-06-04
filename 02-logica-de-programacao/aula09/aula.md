@@ -57,4 +57,4 @@ _**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos]
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula08/aula.md) ..... [Avançar para próxima aula](../aula10/aula.md) :point_right:
+👈 [Voltar para aula anterior](../aula08/aula.md) ..... [Avançar para próxima aula](../aula10/aula.md) 👉

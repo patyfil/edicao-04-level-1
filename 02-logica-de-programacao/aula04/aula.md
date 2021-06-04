@@ -66,4 +66,4 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula03/aula.md) ..... [Avançar para próxima aula](../aula05/aula.md) :point_right:
+👈 [Voltar para aula anterior](../aula03/aula.md) ..... [Avançar para próxima aula](../aula05/aula.md) 👉

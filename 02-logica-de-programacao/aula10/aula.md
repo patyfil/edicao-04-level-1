@@ -43,5 +43,5 @@ _**Após** ter feito o exercício, dá uma conferida em [como nós criamos a fun
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula09/aula.md)
-:point_left: [Voltar para o índice](../material.md#algoritmos-e-lógica-de-programação-fundamental)
+👈 [Voltar para aula anterior](../aula09/aula.md)
+👈 [Voltar para o índice](../material.md#algoritmos-e-lógica-de-programação-fundamental)

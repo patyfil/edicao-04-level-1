@@ -1,6 +1,6 @@
 # Aula 06 - Resolução do exercício
 
-Há mais de uma forma de criar este algoritmo. Como já falamos anteriormente, dificilmente duas pessoas criam um algoritmo exatamennte igual. Portanto, se o seu código ficou muito diferente do nosso, _don't worry_. O importante é o resultado. :blush:
+Há mais de uma forma de criar este algoritmo. Como já falamos anteriormente, dificilmente duas pessoas criam um algoritmo exatamennte igual. Portanto, se o seu código ficou muito diferente do nosso, _don't worry_. O importante é o resultado. 😊
 
 _Obs.: caso você queira executar o código abaixo, lembre-se de atribuir valores às variáveis `peso` e `altura`._
 
@@ -45,4 +45,4 @@ if (grau > 0) {
 ```
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

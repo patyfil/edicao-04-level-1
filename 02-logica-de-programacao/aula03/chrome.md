@@ -11,4 +11,4 @@ Aqui você já pode programar! :metal: Digite seu código, dê um `Enter` e _voi
 ![devtools](img/chrome-2.png)
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

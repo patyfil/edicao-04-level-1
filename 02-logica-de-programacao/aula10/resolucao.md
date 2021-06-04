@@ -1,6 +1,6 @@
 # Aula 10 - Resolução dos exercícios
 
-Lembre-se sempre: o algoritmo poderia ter sido criado com uma centena de detalhes diferentes. O importante é entender a ideia e obter o resultado final. :wink:
+Lembre-se sempre: o algoritmo poderia ter sido criado com uma centena de detalhes diferentes. O importante é entender a ideia e obter o resultado final. 😉
 
 ```javascript
 colaboradores    = ['Rhoger', 'Cléverson', 'Gleysberto', 'Nádio', 'Rosiméri', 'Regislane', 'Agripino', 'Wellison']
@@ -50,4 +50,4 @@ function verificarAposentadoria(nome) {
 ```
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

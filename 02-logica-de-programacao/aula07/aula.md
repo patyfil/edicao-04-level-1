@@ -12,4 +12,4 @@ Assista ao vídeo: https://youtu.be/Q8iceY8qCpo
 
 ---
 
-:point_left: [Voltar para aula anterior](../aula06/aula.md) ..... [Avançar para próxima aula](../aula08/aula.md) :point_right:
+👈 [Voltar para aula anterior](../aula06/aula.md) ..... [Avançar para próxima aula](../aula08/aula.md) 👉

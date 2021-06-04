@@ -51,4 +51,4 @@ function margemBruta(receitaLiquidaVendas, custoProdutosVendidos) {
 ```
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)

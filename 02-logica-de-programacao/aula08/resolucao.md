@@ -4,7 +4,7 @@ Relembrando e reforçando: há várias formas de se implementar um mesmo algorit
 
 As estruturas de repetição são uma prova disso. Um desenvolvedor pode ter preferência por usar o `while` enquanto outro pode preferir o `for`, mesmo que ambas as estruturas consigam gerar exatamente o mesmo resultado.
 
-Na resolução dos exercícios `2` e `3`, inclusive, foi usado `for` por preferência do desenvolvedor. :stuck_out_tongue:
+Na resolução dos exercícios `2` e `3`, inclusive, foi usado `for` por preferência do desenvolvedor. 😛
 
 1)
   ** Utilizando `while`:
@@ -78,4 +78,4 @@ if (nomeComum) {
 ```
 
 ---
-:point_left: [Voltar para aula](aula.md)
+👈 [Voltar para aula](aula.md)
