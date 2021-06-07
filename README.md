@@ -4,9 +4,9 @@
 
 O objetivo dessa etapa de qualificação é te apresentar o **Git e o Github**, introduzi-lo aos conceitos de **fundamentos e lógica de programação** e **orientação a objetos** e, para encerrar, te mostrar um pouco de programação usando **Java**. Todo programador precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
 
-Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação, o qual será realizado no dia **27/08/2021**.
+Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação.
 
-Seu entendimento sobre este conteúdo é fundamental para que você esteja apto a participar do treinamento que faremos entre os dias **18/09/2021** e **16/10/2021**. Portanto, dedique-se a estudar o material e pratique tudo o que for apresentado. 💪
+Seu entendimento sobre este conteúdo é fundamental para que você esteja apto a participar do treinamento que faremos no Level 2. Portanto, dedique-se a estudar o material e pratique tudo o que for apresentado. 💪
 
 ...
 
@@ -100,15 +100,7 @@ Além de todo material e da disponibilidade de ajuda pelo GitHub, também planej
 
 Este é o cronograma inicial que planejamos:
 
-| Data           | Hora              | Objetivo                     |
-| -------------- | ----------------- | ---------------------------- |
-| **06/08/2021** | **18:30 - 20:00** | Palestra ao vivo sobre carreira de TI e detalhes sobre o funcionamento do programa e das próximas etapas. |
-| **09/08/2021** | **19:00 - 20:30** | Live para tirar dúvidas sobre Git e GitHub. |
-| **12/08/2021** | **19:00 - 20:00** | Live para tirar dúvidas sobre o conteúdo e depoimento de participantes das edições anteriores. |
-| **16/08/2021** | **19:00 - 20:30** | Live para tirar dúvidas sobre Lógica de Programação. |
-| **19/08/2021** | **19:00 - 20:00** | Live para tirar dúvidas sobre o conteúdo e depoimento de participantes das edições anteriores. |
-| **24/08/2021** | **19:00 - 20:30** | Live para tirar dúvidas sobre Orientação a Objetos e Java. |
-| **26/08/2021** | **19:00 - 20:00** | Live com depoimento de participantes das edições anteriores e detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **27/08/2021**. |
+![Cronograma](https://via.placeholder.com/900x600)
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
 
