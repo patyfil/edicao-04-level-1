@@ -14,3 +14,12 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #10 - Conteúdo extra](aula10/aula.md)
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
+
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Willian Justen Cursos"](https://www.youtube.com/c/WillianJustenCursos)
+ - ###### [Canal "Alura Cursos Online"](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
+ - ###### [Canal "O Bruno Germano"](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg)
+ 
+---
+
+👈 [Voltar para o material](../material.md)

@@ -8,9 +8,6 @@ Assista aos vídeos:
 
   1. [Desfazendo coisas com o reset](https://www.youtube.com/watch?v=FUOjLcYSj2s)    
 
-###### _Créditos dos vídeos:_
-- ###### [Canal "Willian Justen Cursos"](https://www.youtube.com/c/WillianJustenCursos)    
-
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
 ---

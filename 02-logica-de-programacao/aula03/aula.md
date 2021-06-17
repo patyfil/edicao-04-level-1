@@ -4,9 +4,6 @@ Assista ao vídeo:
 
   1. [Hello World](https://www.youtube.com/watch?v=rktt2vRzA1c)
 
-###### _Créditos dos vídeos:_
- - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
-
 > É **#fundamental** que você assista ao vídeo e leia o material complementar.
 
 ---

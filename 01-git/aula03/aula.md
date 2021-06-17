@@ -10,9 +10,6 @@ Assista aos vídeos:
 
   1. [Utilizando editores no terminal](https://www.youtube.com/watch?v=yYmVfYgPd44)
 
-###### _Créditos dos vídeos:_
-- ###### [Canal "Willian Justen Cursos"](https://www.youtube.com/c/WillianJustenCursos)
-
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
 ---

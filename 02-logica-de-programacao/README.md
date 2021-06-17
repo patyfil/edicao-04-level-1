@@ -16,3 +16,12 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Peixe Babel"](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) 
+ - ###### [Canal "Node Studio Treinamentos"](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
+ - ###### [Canal "Dev Aprender"](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A)
+  
+---
+
+👈 [Voltar para o material](../material.md)

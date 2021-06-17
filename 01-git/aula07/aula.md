@@ -8,9 +8,6 @@ Assista aos vídeos:
 
   1. [Fazendo fork de um projeto](https://www.youtube.com/watch?v=q-QTbNu8Ybc)    
 
-###### _Créditos dos vídeos:_
-- ###### [Canal "Willian Justen Cursos"](https://www.youtube.com/c/WillianJustenCursos)
-
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
 ---

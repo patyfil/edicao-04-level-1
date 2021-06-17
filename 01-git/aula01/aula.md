@@ -6,10 +6,6 @@ Assista aos vídeos:
 
   1. [O que é Github](https://www.youtube.com/watch?v=ZDo_f3ZibFA)
 
-###### _Créditos dos vídeos:_
- - ###### [Canal "Alura Cursos Online"](https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw)
- - ###### [Canal "O Bruno Germano"](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg)
-
 > É **#fundamental** que você assista aos vídeos. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
 ---

@@ -8,9 +8,6 @@ Assista ao vídeo:
 
   1. [Funções, procedimentos e comentários](https://www.youtube.com/watch?v=2g2bfD6q5NQ)
 
-###### _Créditos dos vídeos:_
- - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
-
 > É **#fundamental** que você assista ao vídeo e leia o artigo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
 ---

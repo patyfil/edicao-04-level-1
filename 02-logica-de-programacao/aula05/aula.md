@@ -4,9 +4,6 @@ Assista ao vídeo:
 
   1. [Operadores](https://www.youtube.com/watch?v=FDrR18rvvCc)
 
-###### _Créditos dos vídeos:_
- - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
-
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora muito importante)_ que você faça os exercícios.
 
 ---

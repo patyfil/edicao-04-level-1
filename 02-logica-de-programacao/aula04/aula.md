@@ -14,10 +14,6 @@ Assista aos vídeos:
     
   2. [Variáveis na prática](https://www.youtube.com/watch?v=Qxz5TKqYkCg)
 
-###### _Créditos dos vídeos:_
- - ###### [Canal "Node Studio Treinamentos"](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
- - ###### [Canal "Dev Aprender"](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A)
-
 > É **#fundamental** que você assista aos vídeos e leia o material complementar. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
