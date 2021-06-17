@@ -2,8 +2,10 @@
 
 Assista ao vídeo:
 
-[![Como o computador entende as coisas?](https://img.youtube.com/vi/RRyzdrL3AZw/0.jpg)](https://www.youtube.com/watch?v=RRyzdrL3AZw)
+  1. [Como o computador entende as coisas?](https://www.youtube.com/watch?v=RRyzdrL3AZw)
 
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 

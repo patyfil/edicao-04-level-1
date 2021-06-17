@@ -2,7 +2,10 @@
 
 Assista ao vídeo: 
 
-[![Introdução à lógica de programação](https://img.youtube.com/vi/HXddFUe6VPU/0.jpg)](https://www.youtube.com/watch?v=HXddFUe6VPU)
+  1. [Introdução à lógica de programação](https://www.youtube.com/watch?v=HXddFUe6VPU)
+
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

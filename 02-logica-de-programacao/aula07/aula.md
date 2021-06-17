@@ -2,8 +2,10 @@
 
 Assista ao vídeo:
 
-[![Vetores, matrizes e arrays](https://img.youtube.com/vi/Q8iceY8qCpo/0.jpg)](https://www.youtube.com/watch?v=Q8iceY8qCpo)
+  1. [Vetores, matrizes e arrays](https://www.youtube.com/watch?v=Q8iceY8qCpo)
 
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 

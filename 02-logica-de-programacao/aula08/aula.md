@@ -2,8 +2,10 @@
 
 Assista ao vídeo:
 
-[![Estruturas de repetição](https://img.youtube.com/vi/FhuqrLaeN34/0.jpg)](https://www.youtube.com/watch?v=FhuqrLaeN34)
+  1. [Estruturas de repetição](https://www.youtube.com/watch?v=FhuqrLaeN34)
 
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
