@@ -41,6 +41,8 @@ Nosso conteúdo principal está segmentado em 4 módulos. Cada módulo possui a 
 
 ## Módulo 1 - Git e GitHub _`#fundamental`_
 
+**Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
+
 [Acessar módulo](01-git/README.md)
 
 ...
