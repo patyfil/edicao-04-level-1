@@ -49,15 +49,15 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 2 - Orientação à Objetos _`#fundamental`_
+## Módulo 2 - Programação básica com Java _`#fundamental`_
 
-[Acessar módulo](02-orientacao-a-objetos/README.md)
+[Acessar módulo](02-java/README.md)
 
 ...
 
-## Módulo 3 - Programação básica com Java _`#fundamental`_
+## Módulo 3 - Orientação à Objetos _`#fundamental`_
 
-[Acessar módulo](03-java/README.md)
+[Acessar módulo](03-orientacao-a-objetos/README.md)
 
 ...
 
