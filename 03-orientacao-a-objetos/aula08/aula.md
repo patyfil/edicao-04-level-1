@@ -2,8 +2,8 @@
 
 Assista aos vídeos: 
 
-  1. [Relacionamento de Agregação](https://youtu.be/ERdvijGtrq0)
-  1. [Agregação entre Objetos com Java](https://youtu.be/8R9RpqpXI_c)
+  1. [Relacionamento de Agregação](https://youtu.be/ERdvijGtrq0?t=61)
+  1. [Agregação entre Objetos com Java](https://youtu.be/8R9RpqpXI_c?t=34)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

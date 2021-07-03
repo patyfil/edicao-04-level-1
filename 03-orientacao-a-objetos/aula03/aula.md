@@ -2,8 +2,8 @@
 
 Assista aos vídeos: 
 
-  1. [O que é Visibilidade em um Objeto?](https://youtu.be/jFI-qqitzwk?t=24)
-  1. [Configurando Visibilidade de Atributos e Métodos](https://youtu.be/LV2243j4RTQ)
+  1. [O que é Visibilidade em um Objeto?](https://youtu.be/jFI-qqitzwk?t=49)
+  1. [Configurando Visibilidade de Atributos e Métodos](https://youtu.be/LV2243j4RTQ?t=33)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

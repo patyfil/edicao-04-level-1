@@ -2,8 +2,8 @@
 
 Assista aos vídeos: 
 
-  1. [Métodos Especiais](https://youtu.be/g2x9oyBFSco?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&t=51)
-  1. [Métodos Getter, Setter e Construtor](https://youtu.be/6i-_R5cAcEc)
+  1. [Métodos Especiais](https://youtu.be/g2x9oyBFSco?t=51)
+  1. [Métodos Getter, Setter e Construtor](https://youtu.be/6i-_R5cAcEc?t=34)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 

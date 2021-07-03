@@ -2,8 +2,8 @@
 
 Assista aos vídeos: 
 
-  1. [Relacionamento entre Classes](https://youtu.be/GLHbxDU9iBA)
-  1. [Objetos Compostos em Java](https://youtu.be/BfrbCQ3XcrA)
+  1. [Relacionamento entre Classes](https://youtu.be/GLHbxDU9iBA?t=98)
+  1. [Objetos Compostos em Java](https://youtu.be/BfrbCQ3XcrA?t=34)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
