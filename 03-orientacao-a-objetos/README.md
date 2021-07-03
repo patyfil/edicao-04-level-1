@@ -13,7 +13,7 @@ Faça os exercícios propostos com o objetivo de entender e aprender os conceito
 - [Aula #07 - Relacionamento entre Classes](aula07/aula.md)
 - [Aula #08 - Relacionamento de Agregação](aula08/aula.md)
 - [Aula #09 - Pilares da POO: Herança](aula09/aula.md)
-- [Aula #10 - Conceito Polimorfismo](aula10/aula.md)
+- [Aula #10 - Pilares da POO: Polimorfismo](aula10/aula.md)
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
@@ -23,23 +23,3 @@ Faça os exercícios propostos com o objetivo de entender e aprender os conceito
 ---
 
 👈 [Voltar para o material](../material.md)
-
----
-
-- Exercícios de POO
-https://youtu.be/TaqBuubOBgI
-
-- Exercício prático POO em Java
-https://youtu.be/xgqrkCcH6Ko
-
-- Exercícios de POO (Parte 2)
-https://youtu.be/SgubvKWfHKo
-
-- Projeto Final em Java (Parte 1)
-https://youtu.be/_5ZUatkzRsM
-
-- Exercícios de POO (Parte 3)
-https://youtu.be/h2T5cktV79w
-
-- Projeto Final em Java (Parte 2)
-https://youtu.be/LSEz2GQtP0E
