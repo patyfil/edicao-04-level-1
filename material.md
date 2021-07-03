@@ -55,7 +55,7 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 3 - Porgramação básica com Java _`#fundamental`_
+## Módulo 3 - Programação básica com Java _`#fundamental`_
 
 [Acessar módulo](03-java/README.md)
 
