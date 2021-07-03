@@ -1,6 +1,6 @@
 # Lógica de Programação
 
-Os vídeos não são necessariamente dos mesmos canais, portanto, procure assistir a todos com atenção, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
+Os vídeos não são necessariamente dos mesmos canais, portanto procure assistir a todos com atenção e na ordem apresentada. Faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
 
 - [Aula #00 - O que é um algoritmo?](aula00/aula.md)
 - [Aula #01 - Introdução à lógica de programação](aula01/aula.md)
