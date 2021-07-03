@@ -2,7 +2,7 @@
 
 # CWI Reset - 3ª edição - Level 1
 
-O objetivo dessa etapa de qualificação é te apresentar o **Git e o Github**, introduzi-lo aos conceitos de **fundamentos e lógica de programação** e **orientação a objetos** e, para encerrar, te mostrar um pouco de programação usando **Java**. Todo programador precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
+O objetivo dessa etapa é introduzi-lo aos conceitos de **fundamentos e lógica de programação** e **orientação a objetos** e, para encerrar, te mostrar um pouco de programação usando **Java**. Todo programador precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
 
 Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação.
 

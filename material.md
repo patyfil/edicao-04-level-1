@@ -33,39 +33,39 @@ _Obs.: o último link é de uma playlist beeem básica, então, caso você já t
 
 ...
 
-Nosso conteúdo principal está segmentado em 4 módulos. Cada módulo possui a sua própria lista de aulas e exercícios e sugerimos que você consuma na ordem em que apresentamos. Caso sinta que o conteúdo é muito básico para o seu conhecimento, fique a vontade para avançar para os exercícios de cada aula.
+Nosso conteúdo principal está segmentado em 3 módulos. Cada módulo possui a sua própria lista de aulas e exercícios e sugerimos que você consuma na ordem em que apresentamos. Caso sinta que o conteúdo é muito básico para o seu conhecimento, fique a vontade para avançar para os exercícios de cada aula.
 
-⚠️ _**Estes 4 módulos são os mais importante do Level 1, por isso, obviamente, todos eles são classificados como #fundamental.**_
-
-...
-
-## Módulo 1 - Git e GitHub _`#fundamental`_
-
-**Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
-
-[Acessar módulo](01-git/README.md)
+⚠️ _**Estes 3 módulos são os mais importante do Level 1, por isso, obviamente, todos eles são classificados como #fundamental.**_
 
 ...
 
-## Módulo 2 - Algoritmos e lógica de programação _`#fundamental`_
+## Módulo 1 - Algoritmos e lógica de programação _`#fundamental`_
 
 Algoritmos? 😳 Condicionais? 😨 Arrays? 😱
 
 Aqui você vai ver tudo isso e um pouco mais 😆
 
-[Acessar módulo](02-logica-de-programacao/README.md)
+[Acessar módulo](01-logica-de-programacao/README.md)
 
 ...
 
-## Módulo 3 - Orientação à Objetos _`#fundamental`_
+## Módulo 2 - Orientação à Objetos _`#fundamental`_
 
-[Acessar módulo](03-orientacao-a-objetos/README.md)
+[Acessar módulo](02-orientacao-a-objetos/README.md)
 
 ...
 
-## Módulo 4 - Porgramação básica com Java _`#fundamental`_
+## Módulo 3 - Porgramação básica com Java _`#fundamental`_
 
-[Acessar módulo](04-java/README.md)
+[Acessar módulo](03-java/README.md)
+
+...
+
+## Módulo Extra - Git e GitHub _`#opcional`_
+
+**Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
+
+[Acessar módulo](04-git/README.md)
 
 ...
 
