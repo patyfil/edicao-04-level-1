@@ -51,11 +51,19 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ## Módulo 2 - Programação básica com Java _`#fundamental`_
 
+Java é aquele programinha que instala pra acessar Internet Banking né ? 😅 
+
+Java é uma linguagem de programação dentre as mais utilizadas para aplicações robustas e de grande porte. Mas antes de inventarmos a nova rede social do momento, precisamos saber como fazer um sistema que imprima "Olá Mundo" com Java.
+
+Bora lá ? 💪
+
 [Acessar módulo](02-java/README.md)
 
 ...
 
 ## Módulo 3 - Orientação à Objetos _`#fundamental`_
+
+Há quem diga que orientação a objetos é o nome dado para programação arrastando caixinhas. Mas na verdade a OO (como é carinhosamente chamada) é um paradigma de programação. E o que isso significa ? 😳 Vamos descobrir neste módulo! 😅
 
 [Acessar módulo](03-orientacao-a-objetos/README.md)
 
@@ -69,14 +77,16 @@ Se qualquer uma das respostas for verdadeira, vale a pena você dar uma olhada n
 
 Porém, se quiser dar um passo à frente 🚀, vale a pena dar uma conferida.
 
-* TODO Framework Spring/Spring Boot
-* TODO APIs REST
+* [O que é REST ?](https://www.youtube.com/watch?v=S7MduKwvVGk)
+* [O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 
 ...
 
 Esperamos que você consiga ver, estudar e praticar todo material, pois ele é muito importante e constitui o básico para que você consiga participar da próxima etapa.
 
 Todo material foi cuidadosamente separado para te ajudar. Por isso, contamos com sua dedicação e esperamos te ver na próxima também 👊
+
+Qualquer problema com links ou exercícios, lembre de utilizar as [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
 Boa sorte 😊
 
