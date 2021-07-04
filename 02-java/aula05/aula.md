@@ -1,7 +1,18 @@
-Aula #05 - Variáveis
+# Aula 05 - Variáveis
 
-    Curso de Java 10: Introdução a Variávels
-        https://youtu.be/ELBqT_rueAQ
+Assista aos vídeos: 
 
-    Curso de Java 11: Variáveis - Tipos Primitivos
-        https://youtu.be/aqiB58NpKLw
+  1. [Variáveis](https://youtu.be/ELBqT_rueAQ)
+  1. [Tipos Primitivos](https://youtu.be/aqiB58NpKLw)
+
+> É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
+
+---
+
+#### _Leitura complementar:_
+
+* TODO
+
+---
+
+👈 [Voltar para aula anterior](../aula04/aula.md) ..... [Avançar para próxima aula](../aula06/aula.md) 👉
