@@ -8,7 +8,7 @@ Assista ao vídeo:
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 * [O que é Algoritmo?](https://dicasdeprogramacao.com.br/o-que-e-algoritmo/)
 * [Saiba como funciona um algoritmo e conheça os principais exemplos existentes no mercado](https://rockcontent.com/br/blog/algoritmo/)
 * [O que é de fato a lógica de programação?](https://www.treinaweb.com.br/blog/o-que-e-de-fato-a-logica-de-programacao/)

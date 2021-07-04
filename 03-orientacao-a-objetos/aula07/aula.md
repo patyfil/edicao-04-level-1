@@ -9,7 +9,7 @@ Assista aos vídeos:
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 

@@ -8,7 +8,7 @@ Assista ao vídeo:
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * [JavaScript Arrays](https://www.devmedia.com.br/javascript-arrays/4079)
 

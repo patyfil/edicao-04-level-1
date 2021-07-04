@@ -8,7 +8,7 @@ Assista ao vídeo:
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * [Estruturas de repetição em JavaScript](https://www.hreis.net/js/repeticao.html)
 
