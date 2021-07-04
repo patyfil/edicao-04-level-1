@@ -2,16 +2,15 @@
 
 Assista aos vídeos: 
 
-  1. [Loops while e do-while](https://youtu.be/9_12LPVMJYc)
-  1. [Loop for](https://youtu.be/HrfWrbmFUKQ)
-  1. [Comandos Break e Continue](https://youtu.be/rU-DCmwAtXE)
-  1. [Loop for each](https://youtu.be/2ndBbnsqBXQ)
+  1. [Loops while e do-while](https://www.youtube.com/embed/9_12LPVMJYc?start=42&end=732)
+  1. [Loop for](https://www.youtube.com/embed/HrfWrbmFUKQ?start=24&end=1089)
+  1. [Comandos Break e Continue](https://www.youtube.com/embed/rU-DCmwAtXE?start=28&end=1122)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 

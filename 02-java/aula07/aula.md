@@ -2,13 +2,13 @@
 
 Assista aos vídeos: 
 
-  1. [Operadores](https://youtu.be/199tKAE6sxo)
+  1. [Operadores](https://www.youtube.com/embed/199tKAE6sxo?start=78&end=2030)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 * Exercícios - https://youtu.be/pfI20o_lyRA

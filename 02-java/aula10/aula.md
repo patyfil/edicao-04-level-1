@@ -1,14 +1,15 @@
-# Aula 10 - Vetores
+# Aula 10 - Arrays/Vetores
 
 Assista aos vídeos: 
 
-  1. [Vetores](https://youtu.be/HxRb5KLofcI)
+  1. [Arrays/Vetores](https://www.youtube.com/embed/HxRb5KLofcI?start=27&end=1062)
+  1. [Loop for each](https://www.youtube.com/embed/2ndBbnsqBXQ?start=7&end=701)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 

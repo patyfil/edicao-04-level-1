@@ -2,13 +2,13 @@
 
 Assista aos vídeos: 
 
-  1. [Passando argumentos para o programa](https://youtu.be/dhGPGv7XCM8)
+  1. [Passando argumentos para o programa](https://www.youtube.com/embed/dhGPGv7XCM8?start=16&end=562)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 * Exercícios - https://youtu.be/Ebvl0BlnD-U

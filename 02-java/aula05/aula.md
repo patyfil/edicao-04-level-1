@@ -2,14 +2,14 @@
 
 Assista aos vídeos: 
 
-  1. [Variáveis](https://youtu.be/ELBqT_rueAQ)
-  1. [Tipos Primitivos](https://youtu.be/aqiB58NpKLw)
+  1. [Variáveis](https://www.youtube.com/embed/ELBqT_rueAQ?start=59&end=1564)
+  1. [Tipos Primitivos](https://www.youtube.com/embed/aqiB58NpKLw?start=67&end=2842)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Leitura complementar:_
+#### _Material complementar:_
 
 * TODO
 
