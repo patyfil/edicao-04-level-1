@@ -9,7 +9,7 @@ Assista somente ao vídeo equivalente ao seu sistema operacional:
   1. [Ubuntu](https://www.youtube.com/embed/BTNp4P12DIs?start=33&end=371)
   1. [MacOS](https://www.youtube.com/embed/xQEauKE4NTw?start=71&end=238)
 
-> É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
+> É **#fundamental** que você assista ao vídeo e realize as configurações do ambiente Java conforme seu sistema operacional.
 
 ---
 

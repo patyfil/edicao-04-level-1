@@ -8,11 +8,19 @@ Assista aos vídeos:
 
 ---
 
+#### _Exercício:_
+
+- Crie um arquivo chamado AlunoResetComParametro.java
+- Implemente um programa que imprima na tela o texto "Sou aluno do Level 1 do CWI Reset! Me chamo {SEU NOME}"
+- Compile e execute o programa
+
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._ 
+
+---
+
 #### _Material complementar:_
 
-* TODO
-* Exercícios - https://youtu.be/Ebvl0BlnD-U
-* Entendendo os Erros - https://youtu.be/NoEoOaTSFMo
+* [Entendendo os Erros](https://youtu.be/NoEoOaTSFMo) 
 
 ---
 

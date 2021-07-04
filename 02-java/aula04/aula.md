@@ -8,7 +8,7 @@ Assista aos vídeos:
   1. [Como utilizar cada IDE](https://www.youtube.com/embed/74QEhBpzixs?start=1344&end=2282)
   1. [Como instalar o IDE IntelliJ IDEA](https://www.youtube.com/watch?v=rN_qUZJixKg)
 
-> É **#fundamental** que você assista aos vídeos. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
+> É **#fundamental** que você assista aos vídeos e realize a instalação de uma IDE no seu computador.
 
 ---
 
