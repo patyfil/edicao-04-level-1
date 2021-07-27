@@ -4,6 +4,8 @@
 
 `Exercicio1Aula7.java`
 ```java
+import java.util.Scanner;
+
 class Exercicio1Aula7 {
 
 	public static void main(String[] args) {
@@ -27,6 +29,8 @@ class Exercicio1Aula7 {
 
 `Exercicio2Aula7.java`
 ```java
+import java.util.Scanner;
+
 class Exercicio2Aula7 {
 
 	public static void main(String[] args) {
@@ -56,6 +60,8 @@ class Exercicio2Aula7 {
 
 `Exercicio3Aula7.java`
 ```java
+import java.util.Scanner;
+
 class Exercicio3Aula7 {
 
 	public static void main(String[] args) {

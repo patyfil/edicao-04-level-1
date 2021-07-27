@@ -4,6 +4,8 @@ A ideia aqui é alterar o programa da aula 3 e fazer com que o usuário indique 
 
 `AlunoResetLeituraTeclado.java`
 ```java
+import java.util.Scanner;
+
 class AlunoResetLeituraTeclado {
 
 	public static void main(String[] args) {
