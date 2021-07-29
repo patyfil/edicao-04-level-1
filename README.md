@@ -102,7 +102,7 @@ Além de todo material e da disponibilidade de ajuda pelo GitHub, também planej
 
 Este é o cronograma inicial que planejamos:
 
-![Cronograma](https://via.placeholder.com/900x600)
+![Cronograma](assets/cronograma.png)
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
 
