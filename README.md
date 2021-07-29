@@ -34,6 +34,8 @@ Antes de abrir uma Issue:
 
 👉 Procure por issues semelhantes à sua. Pode ser que alguém já tenha passado pela mesma situação que você;
 
+👉 Evite usar uma issue existente para falar de um assunto desconexo. Não tem problema ter várias issues, o importante é mantermos a organização para que todas as dúvidas sejam respondidas.
+
 👉 Se você viu alguma dúvida da qual sabe a resposta, não hesite em respondê-la e compartilhar seu conhecimento! Saiba que colaboração é uma das qualidades muito apreciadas por aqui 😉;
 
 👉 Se você postou algo e acabou descobrindo a solução por conta própria, responda você mesmo explicando como resolveu o problema. Lembre-se: outra pessoa pode passar pelo mesmo problema;
@@ -72,7 +74,7 @@ if (codigoFormatado) {
 }
 ```
 
-**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e mandar um alô para a galera, só para que saibamos que você não pulou essa leitura 😜
+**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e adicionar um novo comentário nela se apresentando para a galera. Diga seu nome completo e de qual área você está vindo 😜
 
 **Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
 
