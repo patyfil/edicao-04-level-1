@@ -106,6 +106,18 @@ Este é o cronograma inicial que planejamos:
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
 
+## Calendário de Lives
+
+| Data / Hora             | Objetivo                                 |
+| ----------------------  | ---------------------------------------- |
+| 13/08 das 18h30 as 20h  | Apresentação do Programa                 |
+| 18/08 das 19h as 20:30h | Depoimento                               |
+| 23/08 das 19h as 20:30h | Final do Módulo de Lógica de Programação |
+| 26/08 das 19h as 20:30h | Depoimento                               |
+| 31/08 das 19h as 20:30h | Final do Módulo de Java                  |
+| 02/09 das 19h as 20:30h | Depoimento                               |
+| 09/09 das 19h as 20:30h | Final do Módulo de OO e Prova            |
+
 ...
 
 ✅ Agora, sim, você já tem toda informação de que precisa para começar a programar no **CWI Reset**. Bons estudos e boa sorte. 😊
