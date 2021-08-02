@@ -22,7 +22,7 @@ _**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.
 ---
 #### _Material complementar:_
 
-* TODO
+* [if/else e o operador ternário](https://www.devmedia.com.br/java-if-else-e-o-operador-ternario/38185)
 
 ---
 

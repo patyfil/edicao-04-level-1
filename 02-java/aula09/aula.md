@@ -32,7 +32,8 @@ _**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.
 
 #### _Material complementar:_
 
-* TODO
+* [Estruturas condicionais e estruturas de repetição em Java](https://www.treinaweb.com.br/blog/estruturas-condicionais-e-estruturas-de-repeticao-em-java)
+* [Estruturas de Repetição](https://tableless.com.br/java-estruturas-de-repeticao/)
 
 ---
 
