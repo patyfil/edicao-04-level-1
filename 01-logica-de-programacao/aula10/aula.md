@@ -45,5 +45,4 @@ _**Após** ter feito o exercício, dá uma conferida em [como nós criamos a fun
 
 ---
 
-👈 [Voltar para aula anterior](../aula09/aula.md)
-👈 [Voltar para o índice](../README.md)
+👈 [Voltar para aula anterior](../aula09/aula.md) ..... [Avançar para próxima aula](../aula11/aula.md) 👉

@@ -13,6 +13,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto procure assisti
 - [Aula #08 - Estruturas de repetição](aula08/aula.md)
 - [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md)
 - [Aula #10 - Juntando tudo](aula10/aula.md)
+- [Aula #11 - Exercício Final](aula11/aula.md)
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
