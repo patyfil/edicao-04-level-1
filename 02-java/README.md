@@ -14,6 +14,7 @@ Faça os exercícios propostos com o objetivo de entender e aprender os conceito
 - [Aula #08 - Condicionais ](aula08/aula.md)
 - [Aula #09 - Loops](aula09/aula.md)
 - [Aula #10 - Arrays/Vetores](aula10/aula.md)
+- [Aula #11 - Exercício Final](aula11/aula.md)
 
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
