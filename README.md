@@ -54,7 +54,7 @@ Antes de abrir uma Issue:
 
 👉 Coloque o máximo possível de detalhes na descrição da issue. Se puder, inclua alguns prints. Quanto mais informações, mais fácil para os outros conseguirem te ajudar.
 
-👉 Mostre o seu código. Ao incluir o seu código entre 3 crazes, o GitHub vai mostrar o código formatado. Veja o exemplo abaixo:
+👉 Mostre o seu código. Ao incluir o seu código entre 3 crases, o GitHub vai mostrar o código formatado. Veja o exemplo abaixo:
 
 \```javascript
 
