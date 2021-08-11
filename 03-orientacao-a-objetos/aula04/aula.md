@@ -9,9 +9,23 @@ Assista aos vídeos:
 
 ---
 
-#### _Material complementar:_
+## Material Complementar
 
-* TODO
+Leia [neste artigo](https://blog.caelum.com.br/nao-aprender-oo-getters-e-setters/amp/) uma reflexão interessante sobre utilizar _getters_ e _setters_ de forma consciente.
+
+## Exercício
+
+Altere o código do exercío que estamos desenvolvendo desde a [segunda aula](../aula02/resolucao.md) e implemente as seguintes mudanças:
+
+* Crie um novo atributo chamado `estamina` do tipo `int`.
+* Todos os atributos devem ser privados.
+* Crie métodos _getters_  e _setters_ para todos os atributos.
+* Crie um método contrutor padrão, incializa o `nome` como valor "Mario Bros", a `idade` com `40`, a `estamina` com `100` e a `altura` com `1.50`.
+* Crie um método contrutor que recebe o `nome`, a `idade` e a `altura` do Mario. Os demais atributos devem ser inicializados como descrito no contrutor padrão.
+
+Por fim, crie uma classe com método `main()`, instancie objetos do Mario e teste sua implementação.
+
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
 
 ---
 

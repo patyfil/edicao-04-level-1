@@ -1,8 +1,8 @@
 # Orientação a Objetos
 
-Os vídeos não são necessariamente dos mesmos canais ou seguem a mesma ordem da playlist original, portanto procure assistir a todos com atenção e na ordem apresentada. Nós já organizamos os links para te levarem ao ponto onde a aula começa.
+Os vídeos não são necessariamente dos mesmos canais ou seguem a mesma ordem da playlist original. Portanto, procure assistir a todos com atenção e na ordem apresentada. Nós já organizamos os links para levarem você ao ponto onde a aula começa.
 
-Faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
+Ao concluir o acompanhamento da vídeo aula, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
 
 - [Aula #01 - O que é Orientação a Objetos ?](aula01/aula.md)
 - [Aula #02 - O que é um Objeto?](aula02/aula.md)
@@ -15,7 +15,7 @@ Faça os exercícios propostos com o objetivo de entender e aprender os conceito
 - [Aula #09 - Pilares da POO: Herança](aula09/aula.md)
 - [Aula #10 - Pilares da POO: Polimorfismo](aula10/aula.md)
 
-👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
+👉 Lembre-se: se estiver com dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
 ###### _Créditos dos vídeos:_
  - ###### [Canal "Curso em Vídeo"](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)

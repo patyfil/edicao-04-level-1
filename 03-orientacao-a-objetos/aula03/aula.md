@@ -9,9 +9,13 @@ Assista aos vídeos:
 
 ---
 
-#### _Material complementar:_
+## Exercício
 
-* TODO
+Altere o código do exercío feito na [aula anterior](../aula02/resolucao.md) para que alguns atributos do mário sejam publicos, outros como protected e outros como privados.
+
+Por fim, crie uma classe com método `main()`, instancie objetos do Mario e teste sua implementação.
+
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
 
 ---
 
