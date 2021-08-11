@@ -26,6 +26,8 @@ Baseado no conteúdo visto nas últimas aulas, vamos criar um simulador simples 
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario e do Luigi, crie uma instancia do jogo, simule o a execução do jogo por meio do método `jogar()` e teste sua implementação.
 
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
+
 ---
 
 👈 [Voltar para aula anterior](../aula07/aula.md) ..... [Avançar para próxima aula](../aula09/aula.md) 👉    

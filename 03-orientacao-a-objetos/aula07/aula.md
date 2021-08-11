@@ -28,6 +28,8 @@ Vamos evoluir o nosso projeto do Mario que estamos construindo desde a segunda a
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario e do Luigi e teste sua implementação.
 
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
+
 Fonte: [nintendoblast](https://www.nintendoblast.com.br/2011/08/perfil-luigi-mario.html).
 
 ---

@@ -50,6 +50,8 @@ Implemente as seguintes mudanças no projeto:
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario, do Luigi, do Yoshi e teste sua implementação.
 
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
+
 Fonte: [nintendoblast](https://www.nintendoblast.com.br/2009/05/perfil-yoshi.html).
 
 ---

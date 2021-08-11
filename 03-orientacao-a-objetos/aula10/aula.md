@@ -28,6 +28,8 @@ Visando exercitar os conceitos de polimorfismo por sobrecarga e sobreposição, 
   * Atualize o metodo `saltar()` para que ele imprima uma mensagem de que o personagem está pulando 50% da sua altura.
   * Crie uma sobregcarga do metodo `saltar()` para que ele pule uma altura 50% maior que o altura do objeto a sua frente. A altura do objeto será recebida como parâmetro nesta sobrecarga.
 
+_**Após** fazer o exercício, dá uma conferida na [nossa solução](resolucao.md)._
+
 ---
 
 👈 [Voltar para aula anterior](../aula09/aula.md)
