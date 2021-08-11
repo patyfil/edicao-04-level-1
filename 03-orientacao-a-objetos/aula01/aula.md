@@ -8,11 +8,11 @@ Assista ao vídeo:
 
 ---
 
-## _Material complementar:_
+## Material Complementar
 
 "Programação orientada a objetos é uma péssima ideia que só poderia ter nascido na Califórnia." -- Edsger Dijkstra
 
-**Motivação: problemas do paradigma procedural**
+### Motivação: problemas do paradigma procedural
 
 Orientação a objetos é uma maneira de programar que ajuda na organização e resolve muitos problemas enfrentados pela programação procedural.
 

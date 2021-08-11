@@ -13,6 +13,7 @@ Assista aos vídeos:
 
 Leia [neste artigo](https://blog.caelum.com.br/nao-aprender-oo-getters-e-setters/amp/) uma reflexão interessante sobre utilizar _getters_ e _setters_ de forma consciente.
 
+---
 ## Exercício
 
 Altere o código do exercío que estamos desenvolvendo desde a [segunda aula](../aula02/resolucao.md) e implemente as seguintes mudanças:
