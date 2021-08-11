@@ -20,7 +20,7 @@ Baseado nesta aula e na leitura complementar da [aula 4](../aula04/aula.md). Alt
 * Crie um método `revigorar()` que reinicia estamina do Mario em 100.
 
 ### Nível 2
-* Crie um método `morrer()` que zera a estamina do Mario e desconta uma vida;
+* Crie um método `morrer()` que zera a estamina do Mario e desconta uma vida.
 
 ### Nivel 3
 * Crie um método que para coletar moedas que, a cada acionamento, acrescenta 1 na quantidade de moedas atual.

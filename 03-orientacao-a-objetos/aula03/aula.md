@@ -11,7 +11,7 @@ Assista aos vídeos:
 
 ## Exercício
 
-Altere o código do exercío feito na [aula anterior](../aula02/resolucao.md) para que alguns atributos do mário sejam publicos, outros como protected e outros como privados.
+Altere o código do exercío feito na [aula anterior](../aula02/resolucao.md) para que alguns atributos do Mario sejam públicos, outros como protected e outros como privados.
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario e teste sua implementação.
 

@@ -22,13 +22,11 @@ O **Yoshi** teve sua primeira aparição na aventura de Mario pelo Mundo dos Din
 
 Baseado nos aprendizados sobre herança vistos nesta aula, vamos tonar o Mario, o Luigi e o Yoshi personagens especializados da classe jogador. Desta forma, passarão a compartilhar dos mesmos atributos e comportamentos da classe jogador, mas terão suas próprias características.
 
-Implemente as seguintes mudanças no projeto:
-
 ## Nível 1
 * Torne a classe `Personagem` abstrata
-* Crie a classe `Mario` que extende `Personagem`
-* Crie a classe `Luigi` que extende `Personagem`
-* Crie a classe `Yoshi` que extende `Personagem`
+* Crie a classe `Mario` que extende `Personagem`.
+* Crie a classe `Luigi` que extende `Personagem`.
+* Crie a classe `Yoshi` que extende `Personagem`.
 * Tente instanciar um objetivo do tipo Personagem e veja o que acontece.
 
 ## Nível 2

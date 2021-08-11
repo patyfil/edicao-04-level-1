@@ -11,7 +11,7 @@ Assista aos vídeos:
 
 ## Material Complementar
 
-As imagens abaixo podem ser utilzadas como mapa mental sobre os elementos de um código Java.
+As imagens abaixo podem ser utilizadas como mapa mental sobre os elementos de um código Java.
 
 ### Programa Hello Universe
 

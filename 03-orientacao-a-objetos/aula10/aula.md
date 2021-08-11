@@ -13,14 +13,14 @@ Assista aos vídeos:
 
 ## Exercício
 
-Visando exercitar os conceitos de polimorfismo por sobrecarga e sobreposição, vamos aprimorar o nosso projeto do jogo Mario Bros, aprimorando a classe Personagem que ainda possui alguns comportamentos que não comportam a estrutura de herança que implmentamos nas aulas anteriores. Para refina-la, vamos utilizar as ideias do polimorfismo e aplicar as regras nas suas respectivas classes especializadas
+Visando exercitar os conceitos de polimorfismo por sobrecarga e sobreposição, vamos evoluir o nosso projeto do jogo Mario Bros, aprimorando a classe Personagem que ainda possui alguns comportamentos que não contemplam a estrutura de herança que implmentamos nas aulas anteriores. Para refiná-la, vamos utilizar as ideias do polimorfismo e aplicar as regras nas suas respectivas classes especializadas.
 
 ### Sobreposição
 * Vamos aprimorar o método de crescer, pois cada personagem cresce para um tamanho diferente.
-  * Torne o método crescer abstrado e código a regra de crescimento nas classes especializadas conforme decrito a seguir.
-  * Para o Mario, quando ele crescer, sua nova altura é 50% maior que a sua altura atual.
-  * Para o Luigi, quando ele crescer, sua nova altura são 75% maior que a sua altura atual.
-  * Para o Yoshi, quando ele crescer, sua nova altura é 10% maior que a sua altura atual.
+  * Torne o método `crescer()` abstrato e código a regra de crescimento nas classes especializadas conforme decrito a seguir.
+    * Para o Mario, quando ele crescer, sua nova altura é 50% maior que a sua altura atual.
+    * Para o Luigi, quando ele crescer, sua nova altura são 75% maior que a sua altura atual.
+    * Para o Yoshi, quando ele crescer, sua nova altura é 10% maior que a sua altura atual.
   * Note que para isso você precisará tornar a sua altura acessível para as classes filhas. Lembra dos modificadores de acesso vistos na aula 3? Revise-os caso não lembre, pois precisará aqui.
 
 ### Sobrecarga

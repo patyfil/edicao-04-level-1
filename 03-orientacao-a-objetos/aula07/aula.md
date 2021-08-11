@@ -19,8 +19,10 @@ Em **Super Mario Bros**, os irmãos vão ao Reino do Cogumelo para salvar a Prin
 
 Já em **Super Mario Bros. 2**, Luigi teve sua primeira aparição com um personagem diferente de Mario. Ele também podia saltar mais alto que Mario, mas notava-se uma diferença em seus gráficos. Luigi se mostrou mais alto e magro que o irmão bigodudo.
 
+### Atividade
+
 Vamos evoluir o nosso projeto do Mario que estamos construindo desde a segunda aula. A partir de agora, vamos incluir o personagem do Luigi nos nosso cenários e aplicar regras que implementem a diferença que ele foi ganhando com relação Mario ao longo do tempo, conforme descrição acima. Para tal, codifique as seguintes mudanças:
-* Renomear a classe mario para `Personagem`.
+* Renomear a classe `Mario` para `Personagem`.
 * Elemine o construtor default (sem argumentos).
 * Criar um método `saltar()` que imprime a altura que o personagem pula.
    * Quando o personagem se chamar "Mario", ele pula uma altura equivalente a 50% da sua própria altura.

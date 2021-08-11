@@ -20,7 +20,7 @@ Baseado no conteúdo visto nas últimas aulas, vamos criar um simulador simples 
   * Deverá ter um método que imprime os dados dos personagens do jogo.
 
 ## Nível 2
-  * Deverá ter um método `jogar()` que coloca os dois jogadores a coletar moedas em um numero aleatorio entre 0 e 30 de repetições.
+  * Deverá ter um método `jogar()` que coloca os dois jogadores a coletar moedas em um número aleatório entre 0 e 30 de repetições.
     * Deverá ser impressa a quantidade de vezes em que os jogadores coletaram moedas.
     * No final da execução deste método, deverão ser impressos os dados dos personagens do jogo para que possam ser verificadas a vida e a quantidade de moedas adquiridas ao longo da partida.
 
