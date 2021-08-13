@@ -12,13 +12,13 @@ Você pode optar por preencher os dados manualmente ou, então, se cadastrar dir
 
 ### 2. Repositório
 
-Quando você estiver na página principal, após ter realizado o cadastro e o login, localize o botão `+ New repl`.
+Quando você estiver na página principal, após ter realizado o cadastro e o login, localize o botão `+` dentro do bloco "Create".
 
-![repositório](img/repl-2.png)
+![image](https://user-images.githubusercontent.com/378099/129291819-d185a369-2063-4726-ab16-ec52bb56562d.png)
 
-Depois, basta procurar por `Javascript` e dar um nome para o seu repositório.
+Depois, basta procurar por `Node.js` e dar um nome para o seu repositório.
 
-![repositório](img/repl-3.png)
+![image](https://user-images.githubusercontent.com/378099/129291869-3dd6ff65-af8e-44fd-806d-5d11fccd0cc1.png)
 
 ### 3. Execução
 
