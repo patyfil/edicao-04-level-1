@@ -14,6 +14,7 @@ Ao concluir o acompanhamento da vídeo aula, faça os exercícios propostos com 
 - [Aula #08 - Relacionamento de Agregação](aula08/aula.md)
 - [Aula #09 - Pilares da POO: Herança](aula09/aula.md)
 - [Aula #10 - Pilares da POO: Polimorfismo](aula10/aula.md)
+- [Aula #11 - Exercício Final](aula11/aula.md)
 
 👉 Lembre-se: se estiver com dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
 
