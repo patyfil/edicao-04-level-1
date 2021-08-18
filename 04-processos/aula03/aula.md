@@ -4,7 +4,7 @@ Assista aos vídeos:
 
   1. [Introdução ao Kanban](https://vimeo.com/424113519/91695edeec)
 
-> É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
+> É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você leia o material complementar.
 
 ---
 
