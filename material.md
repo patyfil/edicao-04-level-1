@@ -77,6 +77,14 @@ Para que uma equipe funcione adequadamente é importante que sejam definidos alg
 
 ...
 
+## Módulo Extra - Git e GitHub _`#opcional`_
+
+**Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
+
+[Acessar módulo](05-git/README.md)
+
+...
+
 ## Ao infinito e além _`#opcional`_
 
 Achou fácil o conteúdo até aqui? 😳 Aprendeu bem todo material fundamental? 🤔 Quer tentar ir um pouco além? 😏 É apenas muito curioso e tá com tempo livre? 😂
