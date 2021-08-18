@@ -9,7 +9,9 @@ Assista ao vídeo:
 ---
 
 #### _Material complementar:_
-* TODO
+* [O que são métodos ágeis?](https://www.culturaagil.com.br/o-que-sao-metodos-ageis/)
+* [Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/manifesto.html)
+* [Princípios por trás do Manifesto Ágil](https://agilemanifesto.org/iso/ptbr/principles.html)
 
 ---
 

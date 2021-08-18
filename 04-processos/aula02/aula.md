@@ -10,7 +10,8 @@ Assista aos vídeos:
 
 #### _Material complementar:_
 
-* TODO
+* [Scrum](https://www.scrum.org/)
+* [Scrum Guide](https://scrumguides.org/)
 
 ---
 

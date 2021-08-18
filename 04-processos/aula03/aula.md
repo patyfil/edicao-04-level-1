@@ -10,7 +10,7 @@ Assista aos vídeos:
 
 #### _Material complementar:_
 
-* TODO
+* [Métricas - O catalisador de Kaizens!](https://www.youtube.com/watch?v=RSe3znqYN18)
 
 ---
 
