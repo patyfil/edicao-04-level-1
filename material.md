@@ -69,6 +69,14 @@ Há quem diga que orientação a objetos é o nome dado para programação arras
 
 ...
 
+## Módulo 4 - Processos _`#fundamental`_
+
+Para que uma equipe funcione adequadamente é importante que sejam definidos alguns padrões e processos que serão adotados pelo time em conjunto com o cliente. Este módulo é uma pequena introdução aos conceitos de métodos ágeis, scrum e kanban.
+
+[Acessar módulo](04-processos/README.md)
+
+...
+
 ## Ao infinito e além _`#opcional`_
 
 Achou fácil o conteúdo até aqui? 😳 Aprendeu bem todo material fundamental? 🤔 Quer tentar ir um pouco além? 😏 É apenas muito curioso e tá com tempo livre? 😂
