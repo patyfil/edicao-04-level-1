@@ -28,7 +28,7 @@ Baseado nesta aula e na leitura complementar da [aula 4](../aula04/aula.md). Alt
 
 * No método `morrer()`
   * Se o número de vidas for menor que zero após o desconto, a quantidade deve permanecer em zero.
-  * Se o número de vidas for maior que um, a estamina deve revigorar após o desconto.
+  * Se o número de vidas for maior ou igual a zero, a estamina deve revigorar após o desconto.
 
 Por fim, crie uma classe com método `main()`, instancie objetos do Mario e teste sua implementação.
 
