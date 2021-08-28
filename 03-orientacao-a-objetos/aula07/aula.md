@@ -21,9 +21,9 @@ Já em **Super Mario Bros. 2**, Luigi teve sua primeira aparição com um person
 
 ### Atividade
 
-Vamos evoluir o nosso projeto do Mario que estamos construindo desde a segunda aula. A partir de agora, vamos incluir o personagem do Luigi nos nosso cenários e aplicar regras que implementem a diferença que ele foi ganhando com relação Mario ao longo do tempo, conforme descrição acima. Para tal, codifique as seguintes mudanças:
+Vamos evoluir o nosso projeto do Mario que estamos construindo desde a segunda aula. A partir de agora, vamos incluir o personagem do Luigi nos nossos cenários e aplicar regras que implementem a diferença que ele foi ganhando com relação Mario ao longo do tempo, conforme descrição acima. Para tal, codifique as seguintes mudanças:
 * Renomear a classe `Mario` para `Personagem`.
-* Elemine o construtor default (sem argumentos).
+* Elemine o **construtor padrão** (sem argumentos).
 * Criar um método `saltar()` que imprime a altura que o personagem pula.
    * Quando o personagem se chamar "Mario", ele pula uma altura equivalente a 50% da sua própria altura.
    * Quando o personagem se chamar "Luigi", ele pula o dobro da sua altura.

@@ -41,7 +41,7 @@ Para mais detalhes, leia a fonte dessas informações [aqui](https://mario.fando
 
 ### Atividade
 
-Crie uma classe Mario que represente uma abstração do personagem para um código Java. Nesta classe, você deve definir algumas características (atributos) físicas, um comportamento (método) que imprima suas características e um comportamento (método) que imprima alguns dos seus superpoderes.
+Crie uma classe `Mario` que represente uma abstração do personagem para um código Java. Nesta classe, você deve definir algumas características (atributos) físicas, um comportamento (método) que imprima suas características e um comportamento (método) que imprima alguns dos seus superpoderes.
 
 Por fim, crie outra classe que contenha um método `main()`, instancie um objeto do tipo Mario e execute uma chamada para o método que imprima seus dados e outro que imprima alguns dos seus superpoderes. Execute o código e veja o resultado no _console_ (saída).
 

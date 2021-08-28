@@ -11,10 +11,10 @@ Assista aos vídeos:
 
 ## Exercício
 
-Baseado no conteúdo visto nas últimas aulas, vamos criar um simulador simples do jogo onde os personagens apenas vão coletar moedas ao longo da execução. Para isso, vamos criar a classe que simula uma execução do jogo contendo os 2 personagens no cenário. Neste simulador, vamos coletar um numero de moedas aleatório e imprimir os dados dos jogadores no console no termino da partida. Siga o roteiro de implementação abaixo.
+Baseado no conteúdo visto nas últimas aulas, vamos criar um simulador simples do jogo onde os personagens apenas vão coletar moedas ao longo da execução. Para isso, vamos criar a classe que simula uma execução do jogo contendo os 2 personagens no cenário. Neste simulador, vamos coletar um numero aleatório de moedas e imprimir os dados dos jogadores no console após o término da partida. Siga o roteiro de implementação abaixo.
 
 ### Nivel 1
-* Crie a classe `Jogo` com o seguinte modelo
+* Crie a classe `Jogo` com o seguinte modelo:
   * Deverá conter dois jogadores (`jogador1` e `jogador2`), ambos do tipo `Personagem`.
   * Deverá ter um construtor que recebe os dois personagens e os armazene no `jogador1` e `jogador2`.
   * Deverá ter um método que imprime os dados dos personagens do jogo.

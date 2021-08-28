@@ -24,7 +24,7 @@ Baseado nesta aula e na leitura complementar da [aula 4](../aula04/aula.md). Alt
 
 ### Nivel 3
 * Crie um método que para coletar moedas que, a cada acionamento, acrescenta 1 na quantidade de moedas atual.
-  * A cada 10 moedas coletadas, o Mario deve ganhar uma vida;
+  * A cada 10 moedas coletadas, o Mario deve ganhar uma vida.
 
 * No método `morrer()`
   * Se o número de vidas for menor que zero após o desconto, a quantidade deve permanecer em zero.

@@ -215,7 +215,18 @@ public class App {
 
 ## Resultado da Execução no Console
 ```
-
+Personagem{nome='Mario', altura=1.6, idade=40, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Personagem{nome='Mario', altura=2.4000000000000004, idade=40, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Personagem{nome='Luigi', altura=1.8, idade=37, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Personagem{nome='Luigi', altura=3.15, idade=37, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Personagem{nome='Yoshi', altura=0.85, idade=94, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Personagem{nome='Yoshi', altura=0.935, idade=94, estamina=100, quantidadeMoedas=0, quantidadeVidas=1}
+Luigi pulou uma altura de 1.575
+Mario pulou uma altura de 1.2000000000000002
+Yoshi pulou uma altura de 0.4675
+Altura do obstaculo: 2.0. Luigi pulou uma altura de 3.0
+Altura do obstaculo: 3.0. Mario pulou uma altura de 4.5
+Altura do obstaculo: 10.0. Yoshi pulou uma altura de 15.0
 ```
 
 ---

@@ -17,11 +17,11 @@ Visando exercitar os conceitos de polimorfismo por sobrecarga e sobreposição, 
 
 ### Sobreposição
 * Vamos aprimorar o método de crescer, pois cada personagem cresce para um tamanho diferente.
-  * Torne o método `crescer()` abstrato e código a regra de crescimento nas classes especializadas conforme decrito a seguir.
-    * Para o Mario, quando ele crescer, sua nova altura é 50% maior que a sua altura atual.
-    * Para o Luigi, quando ele crescer, sua nova altura são 75% maior que a sua altura atual.
-    * Para o Yoshi, quando ele crescer, sua nova altura é 10% maior que a sua altura atual.
-  * Note que para isso você precisará tornar a sua altura acessível para as classes filhas. Lembra dos modificadores de acesso vistos na aula 3? Revise-os caso não lembre, pois precisará aqui.
+  * Torne o método `crescer()` abstrato e o código da regra de crescimento nas classes especializadas conforme decrito a seguir.
+    * Para o `Mario`, quando ele crescer, sua nova altura é 50% maior que a sua altura atual.
+    * Para o `Luigi`, quando ele crescer, sua nova altura são 75% maior que a sua altura atual.
+    * Para o `Yoshi`, quando ele crescer, sua nova altura é 10% maior que a sua altura atual.
+  * Note que, para isso, você precisará tornar a sua altura acessível para as classes filhas. Lembra dos modificadores de acesso vistos na aula 3? Revise-os caso não lembre, pois precisará aqui.
 
 ### Sobrecarga
 * Vamos atualizar o comportamento do metodo de saltar. Agora os personagens poderão saltar e saltar sobre obstaculos.
