@@ -69,7 +69,7 @@ Há quem diga que orientação a objetos é o nome dado para programação arras
 
 ...
 
-## Módulo 4 - Processos _`#fundamental`_
+## Módulo 4 - Processos _`#fundamental`_ -- WIP Processos continua fundamental?
 
 Para que uma equipe funcione adequadamente é importante que sejam definidos alguns padrões e processos que serão adotados pelo time em conjunto com o cliente. Este módulo é uma pequena introdução aos conceitos de métodos ágeis, scrum e kanban.
 
@@ -77,7 +77,7 @@ Para que uma equipe funcione adequadamente é importante que sejam definidos alg
 
 ...
 
-## Módulo Extra - Git e GitHub _`#opcional`_
+## Módulo Extra - Git e GitHub _`#opcional`_ -- WIP Git continua opicional?
 
 **Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
 
@@ -85,24 +85,11 @@ Para que uma equipe funcione adequadamente é importante que sejam definidos alg
 
 ...
 
-## Ao infinito e além _`#opcional`_
-
-Achou fácil o conteúdo até aqui? 😳 Aprendeu bem todo material fundamental? 🤔 Quer tentar ir um pouco além? 😏 É apenas muito curioso e tá com tempo livre? 😂
-
-Se qualquer uma das respostas for verdadeira, vale a pena você dar uma olhada nas playlists que colocamos aqui. Conteúdo _`#opcional`_ e que não cairá na avaliação, pois veremos todo ele em detalhes durante o treinamento. 
-
-Porém, se quiser dar um passo à frente 🚀, vale a pena dar uma conferida.
-
-* [O que é REST ?](https://www.youtube.com/watch?v=S7MduKwvVGk)
-* [O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
-
-...
-
 Esperamos que você consiga ver, estudar e praticar todo material, pois ele é muito importante e constitui o básico para que você consiga participar da próxima etapa.
 
 Todo material foi cuidadosamente separado para te ajudar. Por isso, contamos com sua dedicação e esperamos te ver na próxima também 👊
 
-Qualquer problema com links ou exercícios, lembre de utilizar as [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
+Qualquer problema com links ou exercícios, lembre de utilizar as [issues](https://github.com/cwi-reset/edicao-04-level-1/issues).
 
 Boa sorte 😊
 
