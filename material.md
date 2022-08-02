@@ -33,6 +33,7 @@ _Obs.: o último link é de uma playlist beeem básica, então, caso você já t
 
 ...
 
+-- WIP definir quantidade de módulos
 Nosso conteúdo principal está segmentado em 3 módulos. Cada módulo possui a sua própria lista de aulas e exercícios e sugerimos que você consuma na ordem em que apresentamos. Caso sinta que o conteúdo é muito básico para o seu conhecimento, fique a vontade para avançar para os exercícios de cada aula.
 
 ⚠️ _**Estes 3 módulos são os mais importante do Level 1, por isso, obviamente, todos eles são classificados como #fundamental.**_
@@ -49,7 +50,7 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 2 - Processos _`#fundamental`_ -- WIP Processos continua fundamental?
+## Módulo 2 - Processos _`#opcional`_
 
 Para que uma equipe funcione adequadamente é importante que sejam definidos alguns padrões e processos que serão adotados pelo time em conjunto com o cliente. Este módulo é uma pequena introdução aos conceitos de métodos ágeis, scrum e kanban.
 
@@ -57,7 +58,7 @@ Para que uma equipe funcione adequadamente é importante que sejam definidos alg
 
 ...
 
-## Módulo Extra - Git e GitHub _`#opcional`_ -- WIP Git continua opicional?
+## Módulo Extra - Git e GitHub _`#opcional`_
 
 **Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
 
