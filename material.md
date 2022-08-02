@@ -49,31 +49,11 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 2 - Programação básica com Java _`#fundamental`_
-
-Java é aquele programinha que instala pra acessar Internet Banking né ? 😅 
-
-Java é uma linguagem de programação dentre as mais utilizadas para aplicações robustas e de grande porte. Mas antes de inventarmos a nova rede social do momento, precisamos saber como fazer um sistema que imprima "Olá Mundo" com Java.
-
-Bora lá ? 💪
-
-[Acessar módulo](02-java/README.md)
-
-...
-
-## Módulo 3 - Orientação à Objetos _`#fundamental`_
-
-Há quem diga que orientação a objetos é o nome dado para programação arrastando caixinhas. Mas na verdade a OO (como é carinhosamente chamada) é um paradigma de programação. E o que isso significa ? 😳 Vamos descobrir neste módulo! 😅
-
-[Acessar módulo](03-orientacao-a-objetos/README.md)
-
-...
-
-## Módulo 4 - Processos _`#fundamental`_ -- WIP Processos continua fundamental?
+## Módulo 2 - Processos _`#fundamental`_ -- WIP Processos continua fundamental?
 
 Para que uma equipe funcione adequadamente é importante que sejam definidos alguns padrões e processos que serão adotados pelo time em conjunto com o cliente. Este módulo é uma pequena introdução aos conceitos de métodos ágeis, scrum e kanban.
 
-[Acessar módulo](04-processos/README.md)
+[Acessar módulo](02-processos/README.md)
 
 ...
 
@@ -81,7 +61,7 @@ Para que uma equipe funcione adequadamente é importante que sejam definidos alg
 
 **Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
 
-[Acessar módulo](05-git/README.md)
+[Acessar módulo](03-git/README.md)
 
 ...
 
