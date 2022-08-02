@@ -1,8 +1,11 @@
 # Aula 05 - Operadores
 
-Assista ao vídeo: 
+Os operadores podem ser divididos da seguinte forma:
 
-  1. [Operadores](https://www.youtube.com/watch?v=FDrR18rvvCc)
+  1. Operadores matemáticos: utilizados para realizar operações matemática , tais como, subtração, soma, multiplicação e divisão.
+  2. [Operadores de comparação/relacionais](https://www.treinaweb.com.br/blog/operadores-de-comparacao-na-programacao#:~:text=Tabela%20de%20operadores%20de%20compara%C3%A7%C3%A3o,seja%20maior%20que%20o%20segundo): utilizados com objetivo de analisar os valores de uma expressão com o mesmo tipo primitivo, retornando um valor verdadeiro ou falso.
+  3. [Operadores lógicos](https://ricardo-reis.medium.com/operadores-l%C3%B3gicos-logical-operators-b0687819d1a5): utilizados para realizar operações lógicas sobre um ou dois valores booleanos.
+  4. [Vídeo sobre operadores](https://www.youtube.com/watch?v=FDrR18rvvCc)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora muito importante)_ que você faça os exercícios.
 
