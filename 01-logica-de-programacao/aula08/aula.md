@@ -10,7 +10,7 @@ Assista ao vídeo:
 
 #### _Material complementar:_
 
-* [Estruturas de repetição em JavaScript](https://www.hreis.net/js/repeticao.html)
+* [Estruturas de repetição em JavaScript](https://programandosolucoes.dev.br/2021/03/23/estruturas-de-repeticao/)
 
 ---
 
