@@ -1,8 +1,8 @@
 ![Logo Reset](assets/logo-reset.png)
 
-# CWI Reset - 3ª edição - Level 1
+# CWI Reset - 4ª edição - Level 1
 
-O objetivo dessa etapa é introduzi-lo aos conceitos de **fundamentos e lógica de programação com JavaScript e Java** e, para encerrar, te mostrar um pouco de **orientação a objetos**. Todo programador precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
+O objetivo dessa etapa é introduzi-lo aos conceitos de **fundamentos e lógica de programação com JavaScript**. Todo profissional da área precisa conhecer a fundo estes assuntos e, para ajudá-lo neste processo, fizemos a curadoria de alguns bons materiais disponíveis gratuitamente na internet. 😁
 
 Para passar desta etapa e chegar à fase do treinamento, você será submetido a um pequeno teste que mesclará perguntas de múltipla escolha e codificação.
 
@@ -28,7 +28,7 @@ Relaxa! Estamos aqui para te ajudar 👊 #tamojunto
 
 É importante você ter consciência de que deve buscar entender ao máximo o que houve no seu código antes de pedir ajuda. Isto é importante pois, na TI, apreciamos muito o autodidatismo. 😉
 
-Caso ainda permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá usar as **[Issues](https://github.com/cwi-reset/edicao-03-level-1/issues)** aqui do Github. Elas funcionam como um fórum: você cria uma nova issue e pode explicar a sua dúvida. Teremos um time de especialistas colaboradores da CWI para ajudá-lo.
+Caso ainda permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá usar as **[Issues](https://github.com/cwi-reset/edicao-04-level-1/issues)** aqui do Github. Elas funcionam como um fórum: você cria uma nova issue e pode explicar a sua dúvida. Teremos um time de especialistas colaboradores da CWI para ajudá-lo.
 
 Antes de abrir uma Issue:
 
@@ -74,7 +74,7 @@ if (codigoFormatado) {
 }
 ```
 
-**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/cwi-reset/edicao-03-level-1/issues/1) e adicionar um novo comentário nela se apresentando para a galera. Diga seu nome completo e de qual área você está vindo 😜
+**Atenção**: criamos uma issue de exemplo para te ajudar a entender como funciona e para que você "brinque" um pouco lá. Então agora sua `primeira missão` é [acessar a Issue](https://github.com/cwi-reset/edicao-04-level-1/issues/1) e adicionar um novo comentário nela se apresentando para a galera. Diga seu nome completo e de qual área você está vindo 😜
 
 **Participe, pergunte, ajude e colabore.** Estas são características fundamentais e nós as valorizamos muito aqui na CWI 🤘
 
@@ -101,7 +101,7 @@ Eu sei que você já está louco(a) para sair programando, mas dá uma olhada ni
 Além de todo material e da disponibilidade de ajuda pelo GitHub, também planejamos algumas lives com o intuito de esclarecer melhor como o programa funcionará e também para te ajudar a tirar dúvidas! Massa, né?? 😄
 
 Este é o cronograma inicial que planejamos:
-
+# -- WIP Cronograma e Calendários precisam ser atualizados
 ![Cronograma](assets/cronograma.png)
 
 > **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
