@@ -6,7 +6,7 @@ Durante o treinamento nós vamos te ensinar a programar, mas, antes de chegar l�
 
 ...
 
-## Carreira _`#opcional`_
+## Carreira _`#opcional`_ -- WIP Esses vídeos estão muito focados em programação
 
 Para você entender melhor o que é programação e a sua importância no mercado de trabalho.
 
