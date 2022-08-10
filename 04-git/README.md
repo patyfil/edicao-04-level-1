@@ -13,7 +13,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #09 - Merge, Rebase](aula09/aula.md)
 - [Aula #10 - Conteúdo extra](aula10/aula.md)
 
-👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-03-level-1/issues).
+👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-04-level-1/issues).
 
 ###### _Créditos dos vídeos:_
  - ###### [Canal "Willian Justen Cursos"](https://www.youtube.com/c/WillianJustenCursos)
