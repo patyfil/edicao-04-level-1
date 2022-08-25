@@ -1,0 +1,28 @@
+# Lógica de Programação
+
+Os vídeos não são necessariamente dos mesmos canais, portanto procure assistir a todos com atenção e na ordem apresentada. Faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
+
+- [Aula #00 - O que é um algoritmo?](aula00/aula.md)
+- [Aula #01 - Introdução à lógica de programação](aula01/aula.md)
+- [Aula #02 - Como o computador entende as coisas?](aula02/aula.md)
+- [Aula #03 - Hello World](aula03/aula.md)
+- [Aula #04 - Variáveis](aula04/aula.md)
+- [Aula #05 - Operadores](aula05/aula.md)
+- [Aula #06 - Condicionais](aula06/aula.md)
+- [Aula #07 - Vetores, matrizes e arrays](aula07/aula.md)
+- [Aula #08 - Estruturas de repetição](aula08/aula.md)
+- [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md)
+- [Aula #10 - Juntando tudo](aula10/aula.md)
+- [Aula #11 - Exercício Final](aula11/aula.md)
+
+👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-04-level-1/issues/1).
+
+###### _Créditos dos vídeos:_
+ - ###### [Canal "Peixe Babel"](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+ - ###### [Canal "Programador BR"](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) 
+ - ###### [Canal "Node Studio Treinamentos"](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
+ - ###### [Canal "Dev Aprender"](https://www.youtube.com/channel/UCm63tB8wsKOVvxoU4iMpS2A)
+  
+---
+
+👈 [Voltar para o material](../material.md)
