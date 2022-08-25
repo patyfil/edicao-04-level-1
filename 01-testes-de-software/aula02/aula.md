@@ -9,5 +9,17 @@ Assista aos vídeos:
 
 ---
 
+#### _Exercício:_
+
+1. Cite 2 exemplo de técnicas de planejamento de testes. 
+
+2. Cite 3 exemplos de artefatos/documentos possíveis para a modelagem de testes?
+
+Não há resposta certa ou errada. 😉
+
+_**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
+---
+
 👈 [Voltar para aula anterior](../aula01/aula.md)
 👈 [Voltar para o índice](../README.md)

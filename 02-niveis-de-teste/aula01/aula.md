@@ -15,4 +15,15 @@ Assista aos vídeos:
 
 ---
 
+#### _Exercício:_
+
+1. Cite 2 técnicas de teste de caixa preta.
+
+2. O que você entende por testes de caixa preta e testes de caixa branca?
+
+Não há resposta certa ou errada. 😉
+
+_**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
+---
 👈 [Voltar para o índice](../README.md) ..... [Avançar para próxima aula](../aula02/aula.md) 👉

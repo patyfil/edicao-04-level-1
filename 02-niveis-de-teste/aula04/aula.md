@@ -23,6 +23,8 @@ Elabore cenários simulando testes na funcionalidade de login do Google (exemplo
 
 Não há resposta certa ou errada. 😉
 
+_**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
 ---
 
 👈 [Voltar para aula anterior](../aula03/aula.md)
