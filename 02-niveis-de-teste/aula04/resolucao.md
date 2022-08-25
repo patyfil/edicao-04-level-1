@@ -15,11 +15,13 @@
 
 ### Exemplo de cenário utilizando Gherkin:
 
-**Cenário**: Acessar o sistema com um usuário válido
-**Dado** que acessei a aplicação
-**E** fui direcionado para o login
-**Quando** preencho meus dados de acesso corretamente
-**Então** sou redirecionado para a aplicação
+```
+Cenário: Acessar o sistema com um usuário válido
+Dado que acessei a aplicação
+E fui direcionado para o login
+Quando preencho meus dados de acesso corretamente
+Então sou redirecionado para a aplicação
+```
 
 ---
 👈 [Voltar para aula](aula.md)
