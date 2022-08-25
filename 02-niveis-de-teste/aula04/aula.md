@@ -13,7 +13,7 @@ Assista aos vídeos:
 
 Elabore cenários simulando testes na funcionalidade de login do Google (exemplo da imagem abaixo). 
 
-![Login](assets/login.png)
+![Login](../../assets/login.png)
 
 ##### Considerações:
 
