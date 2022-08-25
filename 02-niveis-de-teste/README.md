@@ -10,7 +10,13 @@ _Os vídeos não são necessariamente dos mesmos canais, portanto, procure assis
 👉 Lembre-se: se tiver dúvidas no entendimento ou na resolução dos exercícios, peça ajuda e participe nas [issues](https://github.com/cwi-reset/edicao-04-level-1/issues).
 
 ###### _Créditos dos vídeos:_
- - ###### [Canal "Peixe Babel"](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
+ - ###### [Canal "Pessonizando"](https://www.youtube.com/c/pessonizando)
+ - ###### [Canal "Leo in Tech"](https://www.youtube.com/c/LeoinTech)
+ - ###### [Canal "SUCESU - RS"](https://www.youtube.com/c/SUCESURS)
+ - ###### [Canal "Iterasys"](https://www.youtube.com/c/IterasysBrasil)
+ - ###### [Canal "Jamilton Damasceno"](https://www.youtube.com/c/jamiltondamasceno)
+ - ###### [Canal "QAlizando"](https://www.youtube.com/channel/UC2N9bbpk7NcQhg3fFmEX7_A)
+ - ###### [Canal "Julio de Lima"](https://www.youtube.com/c/JuliodeLimas)
   
 ---
 
