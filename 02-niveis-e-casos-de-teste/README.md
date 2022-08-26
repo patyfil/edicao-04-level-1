@@ -1,4 +1,4 @@
-# Níveis de Testes e Casos de Teste
+# Níveis de Teste e Casos de Teste
 
 _Os vídeos não são necessariamente dos mesmos canais, portanto, procure assistir a todos com atenção, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras._
 

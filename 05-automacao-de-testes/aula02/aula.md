@@ -17,5 +17,16 @@ Assista aos vídeos:
 
 ---
 
+#### _Exercício:_
+
+1. Para capturar e clicar em um botão presente na tela, qual(is) comando(s) utilizamos?
+2. Para garantir que o comportamento da aplicação é o esperado de acordo com as ações executadas, é necessário que o teste, ao finalizar, execute uma asserção (validação). Qual(is) comando(s) do Cypress pode(m) ser utilizado(s) com essa finalidade?
+
+Não há resposta certa ou errada. 😉
+
+_**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
+
+---
+
 👈 [Voltar para aula anterior](../aula01/aula.md)
 👈 [Voltar para o índice](../README.md)

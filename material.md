@@ -64,7 +64,7 @@ Níveis? Não é só a tela? 🤷
 
 Aqui você verá como funcionam as aplicações e como você pode analisá-las para criar os seus testes.
 
-[Acessar módulo](02-niveis-de-teste/README.md)
+[Acessar módulo](02-niveis-e-casos-de-teste/README.md)
 
 ...
 
