@@ -1,4 +1,4 @@
-# Aula 01 - Testes Automatizados em Aplicações Web
+# Aula 02 - Testes Automatizados em Aplicações Web
 
 Assista aos vídeos:
 
