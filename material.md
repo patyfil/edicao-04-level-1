@@ -24,6 +24,12 @@ Para você entender mais sobre a área de TI e a sua importância no mercado de 
 - [Habilidades Interpessoais](https://youtu.be/z4jXFvf5TqY)
 - [Trabalho em equipe](https://youtu.be/6kBQ_HvOndY)
 
+#### Mapa mental apresentado na Live do dia 29/08
+
+![Carreira em qualidade de software](assets/carreiraQA.png)
+
+_Você pode baixar o arquivo do mindmap [aqui](assets/carreiraQA.xmind)(arquivo do [XMind](https://www.xmind.app/))._ 
+
 ...
 
 ## Conceitos básicos _`#fundamental`_
