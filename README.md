@@ -32,6 +32,8 @@ Caso ainda permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá 
 
 Antes de abrir uma Issue:
 
+👉 Esteja logado na sua conta do GitHub. Caso não possua uma, vai precisar criá-la. Se tiver dificuldade, pode seguir os passos descritos neste video: **[Como usar Git e GitHub da Forma mais Fácil Possível](https://www.youtube.com/watch?v=EGmzAs1G0z0)**
+
 👉 Procure por issues semelhantes à sua. Pode ser que alguém já tenha passado pela mesma situação que você;
 
 👉 Evite usar uma issue existente para falar de um assunto desconexo. Não tem problema ter várias issues, o importante é mantermos a organização para que todas as dúvidas sejam respondidas.
