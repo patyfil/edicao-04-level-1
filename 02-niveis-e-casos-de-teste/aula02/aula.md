@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [Pirâmide de Testes | O que é e pra que serve?](https://youtu.be/hizne8Yc_Dg)
+  1. [Pirâmide de Testes: O que é e pra que serve?](https://youtu.be/hizne8Yc_Dg)
 
 > É **#fundamental** que você assista ao vídeo. É **#opcional** _(embora bem interessante)_ que você assista o material complementar.
 
