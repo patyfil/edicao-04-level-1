@@ -120,7 +120,7 @@ Este é o cronograma inicial que planejamos:
 
 ...
 
-✅ Agora, sim, você já tem toda informação de que precisa para começar a programar no **CWI Reset**. Bons estudos e boa sorte. 😊
+✅ Agora, sim, você já tem toda informação de que precisa para começar o **CWI Reset**. Bons estudos e boa sorte. 😊
 
 👉 Todo material de estudo está disponível **[aqui](material.md)**. 👈
 
