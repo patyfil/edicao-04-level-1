@@ -47,6 +47,47 @@ function verificarAposentadoria(nome) {
         console.log("Colaborador inválido :|")
     }
 }
+
+
+function verificarAposentadoria(nome) {
+  colaborador = false;
+  idade = 0;
+  tempoTrabalho = 0;
+
+  // buscando um colaborador pelo nome
+  for (i = 0; i < colaboradores.length; i++) {
+    if (nome == colaboradores[i]) {
+      colaborador = true;
+      idade = idades[i];
+      tempoTrabalho = temposDeTrabalho[i];
+    }
+  }
+
+  // se encontrar o colaborador, verifica as regras de aposentadoria
+  if (colaborador) {
+    porIdade = idade >= 65;
+    porTempoDeTrabalho = tempoTrabalho >= 30;
+    porIdadeComTempoDeTrabalho = idade >= 60 && tempoTrabalho >= 25;
+
+    // não importa qual regra seja atendida
+    // se qualquer uma for, o colaborador pode se aposentar
+    if (porIdade) {
+      console.log("Parabéns, já pode sair de férias eternas :)");
+      console.log("Regra 1 - Tem pelo menos 65 anos de idade");
+    } else if (porTempoDeTrabalho) {
+      console.log("Parabéns, já pode sair de férias eternas :)");
+      console.log("Regra 2 - Trabalhou no mínimo 30 anos");
+    } else if (porIdadeComTempoDeTrabalho) {
+      console.log("Parabéns, já pode sair de férias eternas :)");
+      console.log("Regra 3 - Tem pelo menos 60 anos de idade e 25 anos de trabalho.");
+    } else {
+      console.log("Infelizmente, ainda falta um tempo :(");
+    }
+  } else {
+    colaborador = false;
+    console.log("Colaborador inválido :|");
+  }
+
 ```
 
 ---
