@@ -9,33 +9,50 @@ Na resolução dos exercícios `2` e `3`, inclusive, foi usado `for` por prefer�
 1)
   ** Utilizando `while`:
 ```javascript
-bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
-index = 0
+// bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
+// index = 0
 
-while (index < bandas.length) {
-    console.log(bandas[index])
-    index++
-}
+// while (index < bandas.length) {
+//     console.log(bandas[index])
+//     index++
+// }
+    frutas = ["Banana", "Maçã", "Uva", "Abacaxi", "Limão"]
+    i = 0
+    while (i < frutas.length) {
+        console.info(frutas[i])
+        i++
+    }
 ```
 
   ** Utilizando `do ... while`:
 ```javascript
-bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
-index = 0
+// bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
+// index = 0
 
-do {
-    console.log(bandas[index])
-    index++
-} while (index < bandas.length)
+// do {
+//     console.log(bandas[index])
+//     index++
+// } while (index < bandas.length)
+    frutas = ["Banana", "Maçã", "Uva", "Abacaxi", "Limão"]
+    i = 0
+    do {
+        console.log(frutas[i])
+        i++
+    } while (i < frutas.length)
 ```
 
   ** Utilizando `for`:
 ```javascript
-bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
+// bandas = ["Creedence", "AC/DC", "Metallica", "Oasis", "Audioslave"]
 
-for (index = 0; index < bandas.length; index++) {
-    console.info(bandas[index])
-}
+// for (index = 0; index < bandas.length; index++) {
+//     console.info(bandas[index])
+// }
+    frutas = ["Banana", "Maçã", "Uva", "Abacaxi", "Limão"]
+    for (i = 0; i < frutas.length; i++){
+        // console.log(frutas[i])
+        console.info(frutas[i]);
+    }
 ```
 
 2) 
@@ -49,11 +66,32 @@ for (index = 0; index < valores.length; index++) {
 
 media = soma / valores.length
 console.log(media)
+
+// ************* WHILE *************
+soma = 0;
+i = 0;
+while (i < valores.length) {
+  soma += valores[i];
+  i++
+}
+media = soma / valores.length;
+console.log(media);
+
+// ************* DO WHILE *************
+i = 0;
+soma = 0;
+do {
+  soma += valores[i];
+  i++;
+} while (i < valores.length);
+media = soma / valores.length;
+console.log(media);
+
 ```
 
 3)
 ```javascript
-meuNome = ...
+meuNome = "Patrícia";
 nomeComum = false
 
 nomesComuns = ["Miguel", "Laura", "Lucas", "Beatriz", "Guilherme", "Maria", "Gabriel", "Ana", "Arthur", "Júlia", 
@@ -73,7 +111,7 @@ for (index = 0; index < nomesComuns.length; index++) {
 if (nomeComum) {
     console.log("É, nome comum :P")
 } else {
-    console.log("Diferentão, hein? XD")
+    console.log("Diferentona, hein? XD")
 }
 ```
 
