@@ -11,6 +11,10 @@ _Os vídeos não são necessariamente dos mesmos canais, portanto, procure assis
  - ###### [Canal "Pessonizando"](https://www.youtube.com/c/pessonizando)
  - ###### [Canal "Julio de Lima"](https://www.youtube.com/c/JuliodeLimas)
  - ###### [Canal "Iterasys"](https://www.youtube.com/c/IterasysBrasil)
+
+###### _Mapa mental apresentado na Live do dia 05/09/22:_
+![image](https://user-images.githubusercontent.com/68305119/188631902-e321e256-f1e5-4b69-baa6-5f40715e47cb.png)
+
   
 ---
 
