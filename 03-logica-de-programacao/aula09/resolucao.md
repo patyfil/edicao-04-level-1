@@ -2,9 +2,13 @@
 
 1)
 ```javascript
-function imprimir(conteudo) {
-    console.log(conteudo)
+// function imprimir(conteudo) {
+//     console.log(conteudo)
+// }
+function imprimir (texto) {
+    console.log(texto)
 }
+imprimir("Patrícia")
 ```
 
 2) 
@@ -24,7 +28,8 @@ function maiorDeIdade(idade) {
 /* Realiza o cálculo do valor do boleto com juros.
  Atualmente, a taxa de juros é de 10%. */
 function valorComJuros(valorBoleto) {
-    return valorBoleto * 1.1
+    // return valorBoleto * 1.1
+    return valorBoleto + valorBoleto * 0.1;
 }
 
 /* Cálculo da média aritmética de todos os itens presentes
