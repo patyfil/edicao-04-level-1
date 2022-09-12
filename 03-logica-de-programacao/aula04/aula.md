@@ -8,7 +8,7 @@ Assista aos vídeos:
 
 * Parte **prática**:
   * _Este vídeo demonstra na prática como trabalhar com variáveis em Javascript. Mas é importante ficar atento a alguns detalhes do vídeo:_
-    * O conteúdo é apresentado numa ferramenta chamada Visual Studio Code, mas ela não é obrigatória. Você pode escolhar por criar todo código no Repl ou no próprio navegador, conforme explicado na [aula anterior](../aula03/aula.md);
+    * O conteúdo é apresentado numa ferramenta chamada Visual Studio Code, mas ela não é obrigatória. Você pode optar por criar todo código no Repl ou no próprio navegador, conforme explicado na [aula anterior](../aula03/aula.md);
     * Tudo o que é mostrado no arquivo `scripts.js` pode ser feito no Repl ou no próprio navegador. Nestes casos, você não precisa se preocupar com o arquivo `home.html` que é apresentado no vídeo;
     * Embora o vídeo mostre a criação de variáveis com o prefixo `let`, isto não é muito importante para o aprendizado neste momento. Você pode criar variáveis digitando diretamente o nome da variável e seu valor. Ex.: `empresa = "CWI"`
     
