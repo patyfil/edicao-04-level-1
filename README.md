@@ -109,14 +109,14 @@ Este é o cronograma inicial que planejamos:
 
 ## Calendário de Lives
 
-| Data / Hora             | Objetivo                             | Link da Live                                                              | Feedback
+| Data / Hora             | Objetivo                             | Link da Live                                                              | Feedback |
 | ----------------------- | ------------------------------------ | ------------------------------------------------------------------------- | 
-| 29/08 das 19h as 20:30h | Apresentação do Programa             | [Gravação - Live de Apresentação](https://vimeo.com/743407625/07db9090ff) | -
-| 05/09 das 19h as 20:30h | Final de módulo (1) + Depoimento     | [Gravação - Live 05/09](https://vimeo.com/744736042/4cdf0d0ce0)           | -
+| 29/08 das 19h as 20:30h | Apresentação do Programa             | [Gravação - Live de Apresentação](https://vimeo.com/743407625/07db9090ff) | - |
+| 05/09 das 19h as 20:30h | Final de módulo (1) + Depoimento     | [Gravação - Live 05/09](https://vimeo.com/744736042/4cdf0d0ce0)           | - |
 | 09/09 das 19h as 20:30h | Final de módulo (2)                  | [Gravação - Live 09/09](https://vimeo.com/744736353/d3fc2e6f9a)           | [Feedback Live](https://forms.gle/154yuwaBFqZV3k1i9) |
-| 16/09 das 19h as 20:30h | Final de módulo (3 e 4) + Depoimento | https://vimeo.com/event/2389786/8d2d76ec62                                |
-| 19/09 das 19h as 20:30h | Final de módulo (5)                  | https://vimeo.com/event/2389791/f9b56be894                                |
-| 22/09 das 19h as 20:30h | Final de módulo (6) + Depoimento     | https://vimeo.com/event/2389793/34baad3713                                |
+| 16/09 das 19h as 20:30h | Final de módulo (3 e 4) + Depoimento | https://vimeo.com/event/2389786/8d2d76ec62                                | - |
+| 19/09 das 19h as 20:30h | Final de módulo (5)                  | https://vimeo.com/event/2389791/f9b56be894                                | - |
+| 22/09 das 19h as 20:30h | Final de módulo (6) + Depoimento     | https://vimeo.com/event/2389793/34baad3713                                | - |
 
 ...
 
