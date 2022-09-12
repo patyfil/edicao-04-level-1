@@ -16,8 +16,11 @@ _Os vídeos não são necessariamente dos mesmos canais, portanto, procure assis
  - ###### [Canal "Iterasys"](https://www.youtube.com/c/IterasysBrasil)
  - ###### [Canal "Jamilton Damasceno"](https://www.youtube.com/c/jamiltondamasceno)
  - ###### [Canal "QAlizando"](https://www.youtube.com/channel/UC2N9bbpk7NcQhg3fFmEX7_A)
- - ###### [Canal "Julio de Lima"](https://www.youtube.com/c/JuliodeLimas)
+ - ###### [Canal "Julio de Lima"](https://www.youtube.com/c/JuliodeLimas)  
+
   
+###### _Mapa mental apresentado na Live do dia **09/09/22**:_ Acesse [aqui](https://mm.tt/map/2416119654?t=1Vp1xh2EPi)
+
 ---
 
 👈 [Voltar para o material](../material.md)
