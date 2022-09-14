@@ -28,5 +28,11 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 ---
 
+Criamos um pequeno questionário para exercitarmos alguns conhecimentos sobre Cypress. 
+
+**Acesse [aqui](https://cwi.typeform.com/to/wjxj4wM9) o questionário.**
+
+---
+
 👈 [Voltar para aula anterior](../aula01/aula.md)
 👈 [Voltar para o índice](../README.md)
