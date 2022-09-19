@@ -124,7 +124,7 @@ Este é o cronograma inicial que planejamos:
 
 👉 Todo material de estudo está disponível **[aqui](material.md)**. 👈
 
-💡 Leu até aqui e mesmo assim ficou com alguma dúvida? Acesse a nossa **[FAQ](https://cwi-reset.notion.site/cwi-reset/FAQ-2427e09c26f44da8b19282829ea22377#34268c6499d64dd8a3269e8b8f4e64df)** e veja se encontra a resposta fresquina lá!
+💡 Leu até aqui e mesmo assim ficou com alguma dúvida? Acesse a nossa **[FAQ](https://cwi-reset.notion.site/cwi-reset/FAQ-2427e09c26f44da8b19282829ea22377#34268c6499d64dd8a3269e8b8f4e64df)** e veja se encontra a resposta fresquinha por lá!
 
 ---
 
