@@ -114,7 +114,7 @@ Este é o cronograma inicial que planejamos:
 | 29/08 das 19h as 20:30h | Apresentação do Programa             | [Gravação - Live de Apresentação](https://vimeo.com/743407625/07db9090ff) | 														|
 | 05/09 das 19h as 20:30h | Final de módulo (1) + Depoimento     | [Gravação - Live 05/09](https://vimeo.com/744736042/4cdf0d0ce0)           |  													|
 | 09/09 das 19h as 20:30h | Final de módulo (2)                  | [Gravação - Live 09/09](https://vimeo.com/744736353/d3fc2e6f9a)           | [Feedback Live](https://forms.gle/154yuwaBFqZV3k1i9) |
-| 16/09 das 19h as 20:30h | Final de módulo (3 e 4) + Depoimento | https://vimeo.com/event/2389786/8d2d76ec62                                |  													|
+| 16/09 das 19h as 20:30h | Final de módulo (3 e 4) + Depoimento | [Gravação - Live 16/09](https://vimeo.com/744737034/cdc9fee0ff)           | [Feedback Live](https://forms.gle/Guher3oh13JfxjmF6) | 													
 | 19/09 das 19h as 20:30h | Final de módulo (5)                  | https://vimeo.com/event/2389791/f9b56be894                                |  													|
 | 22/09 das 19h as 20:30h | Final de módulo (6) + Depoimento     | https://vimeo.com/event/2389793/34baad3713                                |  													|
 
@@ -123,6 +123,8 @@ Este é o cronograma inicial que planejamos:
 ✅ Agora, sim, você já tem toda informação de que precisa para começar o **CWI Reset**. Bons estudos e boa sorte. 😊
 
 👉 Todo material de estudo está disponível **[aqui](material.md)**. 👈
+
+💡 Leu até aqui e mesmo assim ficou com alguma dúvida? Acesse a nossa **[FAQ](https://cwi-reset.notion.site/cwi-reset/FAQ-2427e09c26f44da8b19282829ea22377#34268c6499d64dd8a3269e8b8f4e64df)** e veja se encontra a resposta fresquinha por lá!
 
 ---
 
